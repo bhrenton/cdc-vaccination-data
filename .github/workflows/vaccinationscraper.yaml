@@ -19,9 +19,6 @@ jobs:
         run: Rscript Vaccination_Scraper.R
       - name: Commit results
         run: |
-        git config user.name "Automated"
-        git config user.email "actions@users.noreply.github.com"
-        git add -A
-        timestamp=$(date -u)
-        git commit -m "Latest data: ${timestamp}" || exit 0
-        git push
+          git add -A
+          git commit -m "Latest data: ${timestamp}" || echo "No changes to commit"
+          git push origin || echo "No changes to commit"

@@ -20,5 +20,6 @@ jobs:
       - name: Commit results
         run: |
           git add -A
+          timestamp=$(date -u)
           git commit -m "Latest data: ${timestamp}" || echo "No changes to commit"
           git push origin || echo "No changes to commit"

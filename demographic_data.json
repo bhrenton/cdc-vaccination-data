@@ -1,5 +1,5 @@
 {
-  "runid": 1908,
+  "runid": 1910,
   "vaccination_demographics_data": [
     {
       "Date": "2021-04-13",
@@ -16,8 +16,8 @@
       "Administered_Dose1_pct_agegroup": 0,
       "Series_Complete_Pop_pct_agegroup": 0,
       "census": 0,
-      "pullid": 1487,
-      "insertdate": "2021-04-13T12:25:55.65"
+      "pullid": 1489,
+      "insertdate": "2021-04-13T22:50:40.47"
     },
     {
       "Date": "2021-04-13",
@@ -34,8 +34,8 @@
       "Administered_Dose1_pct_agegroup": 0,
       "Series_Complete_Pop_pct_agegroup": 0,
       "census": 0,
-      "pullid": 1487,
-      "insertdate": "2021-04-13T12:25:55.65"
+      "pullid": 1489,
+      "insertdate": "2021-04-13T22:50:40.47"
     },
     {
       "Date": "2021-04-13",
@@ -52,8 +52,8 @@
       "Administered_Dose1_pct_agegroup": 1.1,
       "Series_Complete_Pop_pct_agegroup": 0.2,
       "census": 73037927,
-      "pullid": 1487,
-      "insertdate": "2021-04-13T12:25:55.65"
+      "pullid": 1489,
+      "insertdate": "2021-04-13T22:50:40.47"
     },
     {
       "Date": "2021-04-13",
@@ -70,8 +70,8 @@
       "Administered_Dose1_pct_agegroup": 22.7,
       "Series_Complete_Pop_pct_agegroup": 10.8,
       "census": 53027982,
-      "pullid": 1487,
-      "insertdate": "2021-04-13T12:25:55.65"
+      "pullid": 1489,
+      "insertdate": "2021-04-13T22:50:40.47"
     },
     {
       "Date": "2021-04-13",
@@ -88,8 +88,8 @@
       "Administered_Dose1_pct_agegroup": 31.3,
       "Series_Complete_Pop_pct_agegroup": 16.6,
       "census": 43827888,
-      "pullid": 1487,
-      "insertdate": "2021-04-13T12:25:55.65"
+      "pullid": 1489,
+      "insertdate": "2021-04-13T22:50:40.47"
     },
     {
       "Date": "2021-04-13",
@@ -106,8 +106,8 @@
       "Administered_Dose1_pct_agegroup": 37,
       "Series_Complete_Pop_pct_agegroup": 19.6,
       "census": 40194520,
-      "pullid": 1487,
-      "insertdate": "2021-04-13T12:25:55.65"
+      "pullid": 1489,
+      "insertdate": "2021-04-13T22:50:40.47"
     },
     {
       "Date": "2021-04-13",
@@ -124,8 +124,8 @@
       "Administered_Dose1_pct_agegroup": 49.6,
       "Series_Complete_Pop_pct_agegroup": 26.9,
       "census": 62906022,
-      "pullid": 1487,
-      "insertdate": "2021-04-13T12:25:55.65"
+      "pullid": 1489,
+      "insertdate": "2021-04-13T22:50:40.47"
     },
     {
       "Date": "2021-04-13",
@@ -142,8 +142,8 @@
       "Administered_Dose1_pct_agegroup": 74.5,
       "Series_Complete_Pop_pct_agegroup": 57.4,
       "census": 31483433,
-      "pullid": 1487,
-      "insertdate": "2021-04-13T12:25:55.65"
+      "pullid": 1489,
+      "insertdate": "2021-04-13T22:50:40.47"
     },
     {
       "Date": "2021-04-13",
@@ -160,8 +160,8 @@
       "Administered_Dose1_pct_agegroup": 73.9,
       "Series_Complete_Pop_pct_agegroup": 59.6,
       "census": 22574830,
-      "pullid": 1487,
-      "insertdate": "2021-04-13T12:25:55.65"
+      "pullid": 1489,
+      "insertdate": "2021-04-13T22:50:40.47"
     },
     {
       "Date": "2021-04-13",
@@ -178,8 +178,8 @@
       "Administered_Dose1_pct_agegroup": 0,
       "Series_Complete_Pop_pct_agegroup": 0,
       "census": 0,
-      "pullid": 1487,
-      "insertdate": "2021-04-13T12:25:55.65"
+      "pullid": 1489,
+      "insertdate": "2021-04-13T22:50:40.47"
     },
     {
       "Date": "2021-04-13",
@@ -196,8 +196,8 @@
       "Administered_Dose1_pct_agegroup": 0,
       "Series_Complete_Pop_pct_agegroup": 0,
       "census": 0,
-      "pullid": 1487,
-      "insertdate": "2021-04-13T12:25:55.65"
+      "pullid": 1489,
+      "insertdate": "2021-04-13T22:50:40.47"
     },
     {
       "Date": "2021-04-13",
@@ -214,8 +214,8 @@
       "Administered_Dose1_pct_agegroup": 0,
       "Series_Complete_Pop_pct_agegroup": 0,
       "census": 0,
-      "pullid": 1487,
-      "insertdate": "2021-04-13T12:25:55.65"
+      "pullid": 1489,
+      "insertdate": "2021-04-13T22:50:40.47"
     },
     {
       "Date": "2021-04-13",
@@ -232,8 +232,8 @@
       "Administered_Dose1_pct_agegroup": 0,
       "Series_Complete_Pop_pct_agegroup": 0,
       "census": 0,
-      "pullid": 1487,
-      "insertdate": "2021-04-13T12:25:55.65"
+      "pullid": 1489,
+      "insertdate": "2021-04-13T22:50:40.47"
     },
     {
       "Date": "2021-04-13",
@@ -250,8 +250,8 @@
       "Administered_Dose1_pct_agegroup": 0,
       "Series_Complete_Pop_pct_agegroup": 0,
       "census": 0,
-      "pullid": 1487,
-      "insertdate": "2021-04-13T12:25:55.65"
+      "pullid": 1489,
+      "insertdate": "2021-04-13T22:50:40.47"
     },
     {
       "Date": "2021-04-13",
@@ -268,8 +268,8 @@
       "Administered_Dose1_pct_agegroup": 0,
       "Series_Complete_Pop_pct_agegroup": 0,
       "census": 0,
-      "pullid": 1487,
-      "insertdate": "2021-04-13T12:25:55.65"
+      "pullid": 1489,
+      "insertdate": "2021-04-13T22:50:40.47"
     },
     {
       "Date": "2021-04-13",
@@ -286,8 +286,8 @@
       "Administered_Dose1_pct_agegroup": 0,
       "Series_Complete_Pop_pct_agegroup": 0,
       "census": 0,
-      "pullid": 1487,
-      "insertdate": "2021-04-13T12:25:55.65"
+      "pullid": 1489,
+      "insertdate": "2021-04-13T22:50:40.47"
     },
     {
       "Date": "2021-04-13",
@@ -304,8 +304,8 @@
       "Administered_Dose1_pct_agegroup": 0,
       "Series_Complete_Pop_pct_agegroup": 0,
       "census": 0,
-      "pullid": 1487,
-      "insertdate": "2021-04-13T12:25:55.65"
+      "pullid": 1489,
+      "insertdate": "2021-04-13T22:50:40.47"
     },
     {
       "Date": "2021-04-13",
@@ -322,8 +322,8 @@
       "Administered_Dose1_pct_agegroup": 0,
       "Series_Complete_Pop_pct_agegroup": 0,
       "census": 0,
-      "pullid": 1487,
-      "insertdate": "2021-04-13T12:25:55.65"
+      "pullid": 1489,
+      "insertdate": "2021-04-13T22:50:40.47"
     },
     {
       "Date": "2021-04-13",
@@ -340,8 +340,8 @@
       "Administered_Dose1_pct_agegroup": 0,
       "Series_Complete_Pop_pct_agegroup": 0,
       "census": 0,
-      "pullid": 1487,
-      "insertdate": "2021-04-13T12:25:55.65"
+      "pullid": 1489,
+      "insertdate": "2021-04-13T22:50:40.47"
     },
     {
       "Date": "2021-04-13",
@@ -358,8 +358,8 @@
       "Administered_Dose1_pct_agegroup": 0,
       "Series_Complete_Pop_pct_agegroup": 0,
       "census": 0,
-      "pullid": 1487,
-      "insertdate": "2021-04-13T12:25:55.65"
+      "pullid": 1489,
+      "insertdate": "2021-04-13T22:50:40.47"
     },
     {
       "Date": "2021-04-13",
@@ -376,8 +376,8 @@
       "Administered_Dose1_pct_agegroup": 0,
       "Series_Complete_Pop_pct_agegroup": 0,
       "census": 0,
-      "pullid": 1487,
-      "insertdate": "2021-04-13T12:25:55.65"
+      "pullid": 1489,
+      "insertdate": "2021-04-13T22:50:40.47"
     },
     {
       "Date": "2021-04-13",
@@ -394,8 +394,8 @@
       "Administered_Dose1_pct_agegroup": 0,
       "Series_Complete_Pop_pct_agegroup": 0,
       "census": 0,
-      "pullid": 1487,
-      "insertdate": "2021-04-13T12:25:55.65"
+      "pullid": 1489,
+      "insertdate": "2021-04-13T22:50:40.47"
     },
     {
       "Date": "2021-04-13",
@@ -412,8 +412,8 @@
       "Administered_Dose1_pct_agegroup": 0,
       "Series_Complete_Pop_pct_agegroup": 0,
       "census": 0,
-      "pullid": 1487,
-      "insertdate": "2021-04-13T12:25:55.65"
+      "pullid": 1489,
+      "insertdate": "2021-04-13T22:50:40.47"
     }
   ]
 }

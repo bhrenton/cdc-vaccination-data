@@ -22,5 +22,11 @@ vaccine_counties2 <- left_join(counties, vaccine_counties, by = c("New FIPS" = "
   mutate(pharmaciesper100k = available_pharmacies/Total_Population*100000)
 counties_vaccine <- read_csv("https://raw.githubusercontent.com/bhrenton/cdc-vaccination-data/main/vaccination_county.csv")
 vaccine_counties3 <- left_join(vaccine_counties2, counties_vaccine, by = c("New FIPS" = "FIPS"))
+vaccine_states <- vaccine_sites %>% 
+  mutate(available_pharmacy = ifelse(appointments_available == "TRUE",1,0)) %>%
+  group_by(state) %>% 
+  summarise(n_pharmacies = n(), available_pharmacies= sum(available_pharmacy,na.rm = TRUE)) %>% 
+  mutate(pct_available = available_pharmacies/n_pharmacies*100)
 write.csv(vaccine_counties3, "vaccine_counties_sites.csv",row.names=F, na="")
 write.csv(vaccine_sites, "vaccine_spotter_sites.csv", row.names=F, na="")
+write.csv(vaccine_states, "vaccine_spotter_states.csv", row.names=F, na="")

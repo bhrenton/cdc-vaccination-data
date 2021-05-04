@@ -1,3 +1,5 @@
+pip install GitPython
+
 import json
 import git
 import csv

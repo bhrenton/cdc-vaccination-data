@@ -1,5 +1,5 @@
 import json
-pip install GitPython
+$ pip install GitPython
 import git
 import csv
 import sys

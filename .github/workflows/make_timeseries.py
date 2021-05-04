@@ -1,5 +1,4 @@
 import json
-import git
 import csv
 import sys
 import click

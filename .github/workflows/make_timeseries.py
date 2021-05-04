@@ -16,7 +16,7 @@ if sys.version_info < MIN_PYTHON:
               help='Process the data to only output one set of data for each day')
 def main(strip_duplicate_days):
     repo = git.Repo("../../")
-    path = "data/cdc_vaccinations.json"
+    path = "/vaccination_county.json"
 
     # fetch all the git commits that updated the data file
     # thanks to https://stackoverflow.com/q/28803626

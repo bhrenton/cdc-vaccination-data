@@ -1,4 +1,6 @@
 import json
+pip install GitPython
+import git
 import csv
 import sys
 import click

@@ -1,4 +1,4 @@
-name: Update CDC timeseries 2
+name: Update CDC timeseries
 
 on: workflow_dispatch
  

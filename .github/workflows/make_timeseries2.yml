@@ -31,7 +31,6 @@ jobs:
         - name: Run script
           run: |
              python make_timeseries.py vaccination_county.json vaccination_county_condensed_data > county_vaccinations_timeseries.csv
-             python make_timeseries.py vaccination_county.json vaccination_county_condensed_data --strip-duplicate-days > county_vaccinations_timeseries_daily.csv
         - name: Commit
           if: github.ref == 'refs/heads/master'
           uses: EndBug/add-and-commit@v5

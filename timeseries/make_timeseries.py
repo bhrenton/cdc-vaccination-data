@@ -1,9 +1,3 @@
-import pip
-
-package_names=['gitpython'] #packages to install
-pip.main(['install'] + package_names + ['--upgrade']) 
-# --upgrade to install or update existing packages
-
 import json
 import git
 import csv

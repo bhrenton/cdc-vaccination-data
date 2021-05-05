@@ -1,5 +1,6 @@
-
 import json
+from json.decoder import JSONDecodeError
+
 import git
 import csv
 import sys
@@ -13,23 +14,29 @@ if sys.version_info < MIN_PYTHON:
 
 
 @click.command()
+@click.argument('filename', type=click.Path(exists=True))
+@click.argument('json_object')
 @click.option('--strip-duplicate-days/--no-strip-duplicate-days', default=False,
               help='Process the data to only output one set of data for each day')
-def main(strip_duplicate_days):
-    repo = git.Repo("../../")
-    path = "/vaccination_county.json"
+def main(filename, json_object, strip_duplicate_days):
+    repo = git.Repo("./")  # intended to be run inside the root repo directory
 
     # fetch all the git commits that updated the data file
     # thanks to https://stackoverflow.com/q/28803626
     revlist = (
-        (commit, (commit.tree / path).data_stream.read())
-        for commit in repo.iter_commits(paths=path)
+        (commit, (commit.tree / filename).data_stream.read())
+        for commit in repo.iter_commits(paths=filename)
     )
 
     # build up a dict of the data history by looking at each commit in the git history
     data = {}
     for commit, filecontents in revlist:
-        data[commit.committed_datetime] = json.loads(filecontents)
+        try:
+            data[commit.committed_datetime] = json.loads(filecontents)
+        # ignore commits with invalid json, printing a warning to stderr
+        except JSONDecodeError as err:
+            print(err, file=sys.stderr)
+            
 
     # go through the data and reformat it into one line per batch/state
     # if --strip-duplicate-days is set, we only keep the latest set of data for any state/date pair
@@ -38,20 +45,15 @@ def main(strip_duplicate_days):
     seen_data = defaultdict(set)  # dict with date keys holding the states we've seen for that date
     for data_batch in data:
         data_batch = data[data_batch]
-        for county_data in data_batch["vaccination_county_condensed_data"]:
+        for county_data in data_batch[json_object]:
             county_data["runid"] = data_batch["runid"]
-
-            # there's an anomaly in the data where one day has the date in the wrong format.
-            # reformat it, hoping this was a one-time glitch
-            if state_data["Date"] == "01/12/2021":
-                state_data["Date"] = "2021-01-12"
 
             # have we seen this state/date before?
             if strip_duplicate_days and county_data["FIPS"] in seen_data[county_data["Date"]]:
                 continue
 
             # keep track of all the columns that exist as we go (we'll need that list for the CSV output)
-            for k in state_data.keys():
+            for k in county_data.keys():
                 out_cols[k] = None
             # and keep track of the state/date pairs we've seen
             seen_data[county_data["Date"]].add(county_data["FIPS"])

@@ -80,7 +80,7 @@
 "2021-05-04","02122","Alaska","AK ","Kenai Peninsula",17942,39.4,7000,65,18176,31,97.7
 "2021-05-04","02130","Alaska","AK ","Ketchikan Gateway",5627,51.7,1718,75,5733,41.2,97.7
 "2021-05-04","02150","Alaska","AK ","Kodiak Island",5399,55.3,1230,83.3,5502,42.3,97.7
-"2021-05-04","02158","Alaska","AK ","Kusilvak Census Area",NA,NA,NA,NA,NA,NA,NA
+"2021-05-04","02158","Alaska","AK ","Kusilvak Census Area",,,,,,,
 "2021-05-04","02164","Alaska","AK ","Lake and Peninsula",627,55.2,117,63.9,630,39.6,97.7
 "2021-05-04","02170","Alaska","AK ","Matanuska-Susitna",24074,30.2,7830,56.9,24556,22.7,97.7
 "2021-05-04","02180","Alaska","AK ","Nome",4630,70.8,677,84.3,4828,48.3,97.7
@@ -185,7 +185,7 @@
 "2021-05-04","05147","Arkansas","AR ","Woodruff",1921,38.7,939,63.6,1921,30.4,89
 "2021-05-04","05149","Arkansas","AR ","Yell",4953,30.6,2068,53.6,4973,23.3,89
 "2021-05-04","06001","California","CA ","Alameda",637587,47.9,178249,74.7,642735,38.5,96.9
-"2021-05-04","06003","California","CA ","Alpine",NA,NA,NA,NA,NA,NA,NA
+"2021-05-04","06003","California","CA ","Alpine",,,,,,,
 "2021-05-04","06005","California","CA ","Amador",11360,33.7,6229,56.9,11381,28.6,96.9
 "2021-05-04","06007","California","CA ","Butte",64135,36.7,25345,63,64599,29.5,96.9
 "2021-05-04","06009","California","CA ","Calaveras",12887,33.8,7453,57.9,12940,28.2,96.9
@@ -197,7 +197,7 @@
 "2021-05-04","06021","California","CA ","Glenn",7466,35.8,3054,68.2,7507,26.4,96.9
 "2021-05-04","06023","California","CA ","Humboldt",42905,39,16908,67.1,43092,31.8,96.9
 "2021-05-04","06025","California","CA ","Imperial",45960,35.5,13675,56.7,46201,25.5,96.9
-"2021-05-04","06027","California","CA ","Inyo",NA,NA,NA,NA,NA,NA,NA
+"2021-05-04","06027","California","CA ","Inyo",,,,,,,
 "2021-05-04","06029","California","CA ","Kern",204276,31.9,60955,60.3,207347,23,96.9
 "2021-05-04","06031","California","CA ","Kings",27271,24.4,7437,46.4,27481,18,96.9
 "2021-05-04","06033","California","CA ","Lake",19617,38.6,9262,62.4,19674,30.6,96.9
@@ -205,17 +205,17 @@
 "2021-05-04","06037","California","CA ","Los Angeles",3190492,40.4,893845,63.2,3216287,32,96.9
 "2021-05-04","06039","California","CA ","Madera",39133,34.3,14313,63.4,39528,25.1,96.9
 "2021-05-04","06041","California","CA ","Marin",132028,63.6,47319,79.7,134152,51.8,96.9
-"2021-05-04","06043","California","CA ","Mariposa",NA,NA,NA,NA,NA,NA,NA
+"2021-05-04","06043","California","CA ","Mariposa",,,,,,,
 "2021-05-04","06045","California","CA ","Mendocino",30698,44.9,13402,66.9,30910,35.6,96.9
 "2021-05-04","06047","California","CA ","Merced",53855,27.4,17227,54.5,54264,19.5,96.9
-"2021-05-04","06049","California","CA ","Modoc",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","06051","California","CA ","Mono",NA,NA,NA,NA,NA,NA,NA
+"2021-05-04","06049","California","CA ","Modoc",,,,,,,
+"2021-05-04","06051","California","CA ","Mono",,,,,,,
 "2021-05-04","06053","California","CA ","Monterey",140244,43.6,40698,67,141820,32.7,96.9
 "2021-05-04","06055","California","CA ","Napa",55370,50.4,19793,72.9,55715,40.4,96.9
 "2021-05-04","06057","California","CA ","Nevada",32535,39.3,16081,56.8,32821,32.9,96.9
 "2021-05-04","06059","California","CA ","Orange",1069692,43,341240,70.3,1079702,34,96.9
 "2021-05-04","06061","California","CA ","Placer",132998,42.8,56989,71.8,134018,33.6,96.9
-"2021-05-04","06063","California","CA ","Plumas",NA,NA,NA,NA,NA,NA,NA
+"2021-05-04","06063","California","CA ","Plumas",,,,,,,
 "2021-05-04","06065","California","CA ","Riverside",635824,34.3,234778,64.2,641844,26,96.9
 "2021-05-04","06067","California","CA ","Sacramento",452361,38,151131,67.2,456032,29.4,96.9
 "2021-05-04","06069","California","CA ","San Benito",16514,35.3,5105,61.9,16607,26.4,96.9
@@ -229,14 +229,14 @@
 "2021-05-04","06085","California","CA ","Santa Clara",697430,46.1,203026,75.7,704358,36.5,96.9
 "2021-05-04","06087","California","CA ","Santa Cruz",101010,45.6,33858,71.7,101817,37.3,96.9
 "2021-05-04","06089","California","CA ","Shasta",43702,30.9,20136,52.9,44003,24.4,96.9
-"2021-05-04","06091","California","CA ","Sierra",NA,NA,NA,NA,NA,NA,NA
+"2021-05-04","06091","California","CA ","Sierra",,,,,,,
 "2021-05-04","06093","California","CA ","Siskiyou",12666,36.4,6518,57.3,12718,29.2,96.9
 "2021-05-04","06095","California","CA ","Solano",136039,39,45675,62.4,136821,30.6,96.9
 "2021-05-04","06097","California","CA ","Sonoma",200044,50.2,75121,73.4,201617,40.8,96.9
 "2021-05-04","06099","California","CA ","Stanislaus",127467,31.7,41848,56.6,129506,23.5,96.9
 "2021-05-04","06101","California","CA ","Sutter",26336,36.6,9827,65.1,26469,27.3,96.9
 "2021-05-04","06103","California","CA ","Tehama",13170,26.5,5969,46.7,13236,20.3,96.9
-"2021-05-04","06105","California","CA ","Trinity",NA,NA,NA,NA,NA,NA,NA
+"2021-05-04","06105","California","CA ","Trinity",,,,,,,
 "2021-05-04","06107","California","CA ","Tulare",114133,35.2,33690,62.1,115401,24.8,96.9
 "2021-05-04","06109","California","CA ","Tuolumne",18061,39.8,10063,68.4,18086,33.2,96.9
 "2021-05-04","06111","California","CA ","Ventura",293083,44.7,99009,72.4,295612,34.9,96.9
@@ -544,11 +544,11 @@
 "2021-05-04","13317","Georgia","GA ","Wilkes",592,7.7,365,15.7,592,6.1,48.6
 "2021-05-04","13319","Georgia","GA ","Wilkinson",739,10.7,377,20.9,739,8.3,48.6
 "2021-05-04","13321","Georgia","GA ","Worth",1141,7.2,472,11.7,1151,5.7,48.6
-"2021-05-04","15001","Hawaii","HI ","Hawaii",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","15003","Hawaii","HI ","Honolulu",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","15005","Hawaii","HI ","Kalawao",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","15007","Hawaii","HI ","Kauai",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","15009","Hawaii","HI ","Maui",NA,NA,NA,NA,NA,NA,NA
+"2021-05-04","15001","Hawaii","HI ","Hawaii",,,,,,,
+"2021-05-04","15003","Hawaii","HI ","Honolulu",,,,,,,
+"2021-05-04","15005","Hawaii","HI ","Kalawao",,,,,,,
+"2021-05-04","15007","Hawaii","HI ","Kauai",,,,,,,
+"2021-05-04","15009","Hawaii","HI ","Maui",,,,,,,
 "2021-05-04","16001","Idaho","ID ","Ada",171133,46.3,59214,82.3,171136,35.5,98
 "2021-05-04","16003","Idaho","ID ","Adams",1150,32.4,712,55.5,1150,26.8,98
 "2021-05-04","16005","Idaho","ID ","Bannock",24877,38.2,9466,73.4,24877,28.3,98
@@ -2599,260 +2599,260 @@
 "2021-05-04","47185","Tennessee","TN ","White",6202,29,3475,61.9,6229,22.8,98
 "2021-05-04","47187","Tennessee","TN ","Williamson",76122,43.6,25272,78.5,76797,32.2,98
 "2021-05-04","47189","Tennessee","TN ","Wilson",34671,31.3,14065,60.7,34818,24.1,98
-"2021-05-04","48001","Texas","TX ","Anderson",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48003","Texas","TX ","Andrews",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48005","Texas","TX ","Angelina",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48007","Texas","TX ","Aransas",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48009","Texas","TX ","Archer",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48011","Texas","TX ","Armstrong",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48013","Texas","TX ","Atascosa",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48015","Texas","TX ","Austin",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48017","Texas","TX ","Bailey",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48019","Texas","TX ","Bandera",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48021","Texas","TX ","Bastrop",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48023","Texas","TX ","Baylor",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48025","Texas","TX ","Bee",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48027","Texas","TX ","Bell",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48029","Texas","TX ","Bexar",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48031","Texas","TX ","Blanco",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48033","Texas","TX ","Borden",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48035","Texas","TX ","Bosque",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48037","Texas","TX ","Bowie",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48039","Texas","TX ","Brazoria",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48041","Texas","TX ","Brazos",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48043","Texas","TX ","Brewster",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48045","Texas","TX ","Briscoe",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48047","Texas","TX ","Brooks",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48049","Texas","TX ","Brown",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48051","Texas","TX ","Burleson",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48053","Texas","TX ","Burnet",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48055","Texas","TX ","Caldwell",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48057","Texas","TX ","Calhoun",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48059","Texas","TX ","Callahan",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48061","Texas","TX ","Cameron",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48063","Texas","TX ","Camp",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48065","Texas","TX ","Carson",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48067","Texas","TX ","Cass",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48069","Texas","TX ","Castro",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48071","Texas","TX ","Chambers",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48073","Texas","TX ","Cherokee",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48075","Texas","TX ","Childress",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48077","Texas","TX ","Clay",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48079","Texas","TX ","Cochran",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48081","Texas","TX ","Coke",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48083","Texas","TX ","Coleman",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48085","Texas","TX ","Collin",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48087","Texas","TX ","Collingsworth",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48089","Texas","TX ","Colorado",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48091","Texas","TX ","Comal",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48093","Texas","TX ","Comanche",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48095","Texas","TX ","Concho",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48097","Texas","TX ","Cooke",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48099","Texas","TX ","Coryell",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48101","Texas","TX ","Cottle",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48103","Texas","TX ","Crane",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48105","Texas","TX ","Crockett",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48107","Texas","TX ","Crosby",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48109","Texas","TX ","Culberson",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48111","Texas","TX ","Dallam",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48113","Texas","TX ","Dallas",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48115","Texas","TX ","Dawson",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48117","Texas","TX ","Deaf Smith",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48119","Texas","TX ","Delta",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48121","Texas","TX ","Denton",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48123","Texas","TX ","DeWitt",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48125","Texas","TX ","Dickens",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48127","Texas","TX ","Dimmit",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48129","Texas","TX ","Donley",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48131","Texas","TX ","Duval",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48133","Texas","TX ","Eastland",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48135","Texas","TX ","Ector",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48137","Texas","TX ","Edwards",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48141","Texas","TX ","El Paso",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48139","Texas","TX ","Ellis",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48143","Texas","TX ","Erath",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48145","Texas","TX ","Falls",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48147","Texas","TX ","Fannin",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48149","Texas","TX ","Fayette",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48151","Texas","TX ","Fisher",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48153","Texas","TX ","Floyd",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48155","Texas","TX ","Foard",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48157","Texas","TX ","Fort Bend",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48159","Texas","TX ","Franklin",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48161","Texas","TX ","Freestone",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48163","Texas","TX ","Frio",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48165","Texas","TX ","Gaines",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48167","Texas","TX ","Galveston",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48169","Texas","TX ","Garza",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48171","Texas","TX ","Gillespie",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48173","Texas","TX ","Glasscock",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48175","Texas","TX ","Goliad",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48177","Texas","TX ","Gonzales",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48179","Texas","TX ","Gray",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48181","Texas","TX ","Grayson",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48183","Texas","TX ","Gregg",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48185","Texas","TX ","Grimes",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48187","Texas","TX ","Guadalupe",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48189","Texas","TX ","Hale",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48191","Texas","TX ","Hall",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48193","Texas","TX ","Hamilton",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48195","Texas","TX ","Hansford",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48197","Texas","TX ","Hardeman",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48199","Texas","TX ","Hardin",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48201","Texas","TX ","Harris",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48203","Texas","TX ","Harrison",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48205","Texas","TX ","Hartley",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48207","Texas","TX ","Haskell",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48209","Texas","TX ","Hays",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48211","Texas","TX ","Hemphill",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48213","Texas","TX ","Henderson",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48215","Texas","TX ","Hidalgo",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48217","Texas","TX ","Hill",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48219","Texas","TX ","Hockley",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48221","Texas","TX ","Hood",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48223","Texas","TX ","Hopkins",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48225","Texas","TX ","Houston",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48227","Texas","TX ","Howard",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48229","Texas","TX ","Hudspeth",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48231","Texas","TX ","Hunt",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48233","Texas","TX ","Hutchinson",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48235","Texas","TX ","Irion",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48237","Texas","TX ","Jack",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48239","Texas","TX ","Jackson",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48241","Texas","TX ","Jasper",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48243","Texas","TX ","Jeff Davis",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48245","Texas","TX ","Jefferson",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48247","Texas","TX ","Jim Hogg",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48249","Texas","TX ","Jim Wells",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48251","Texas","TX ","Johnson",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48253","Texas","TX ","Jones",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48255","Texas","TX ","Karnes",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48257","Texas","TX ","Kaufman",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48259","Texas","TX ","Kendall",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48261","Texas","TX ","Kenedy",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48263","Texas","TX ","Kent",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48265","Texas","TX ","Kerr",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48267","Texas","TX ","Kimble",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48269","Texas","TX ","King",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48271","Texas","TX ","Kinney",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48273","Texas","TX ","Kleberg",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48275","Texas","TX ","Knox",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48283","Texas","TX ","La Salle",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48277","Texas","TX ","Lamar",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48279","Texas","TX ","Lamb",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48281","Texas","TX ","Lampasas",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48285","Texas","TX ","Lavaca",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48287","Texas","TX ","Lee",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48289","Texas","TX ","Leon",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48291","Texas","TX ","Liberty",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48293","Texas","TX ","Limestone",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48295","Texas","TX ","Lipscomb",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48297","Texas","TX ","Live Oak",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48299","Texas","TX ","Llano",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48301","Texas","TX ","Loving",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48303","Texas","TX ","Lubbock",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48305","Texas","TX ","Lynn",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48313","Texas","TX ","Madison",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48315","Texas","TX ","Marion",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48317","Texas","TX ","Martin",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48319","Texas","TX ","Mason",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48321","Texas","TX ","Matagorda",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48323","Texas","TX ","Maverick",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48307","Texas","TX ","McCulloch",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48309","Texas","TX ","McLennan",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48311","Texas","TX ","McMullen",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48325","Texas","TX ","Medina",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48327","Texas","TX ","Menard",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48329","Texas","TX ","Midland",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48331","Texas","TX ","Milam",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48333","Texas","TX ","Mills",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48335","Texas","TX ","Mitchell",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48337","Texas","TX ","Montague",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48339","Texas","TX ","Montgomery",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48341","Texas","TX ","Moore",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48343","Texas","TX ","Morris",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48345","Texas","TX ","Motley",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48347","Texas","TX ","Nacogdoches",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48349","Texas","TX ","Navarro",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48351","Texas","TX ","Newton",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48353","Texas","TX ","Nolan",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48355","Texas","TX ","Nueces",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48357","Texas","TX ","Ochiltree",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48359","Texas","TX ","Oldham",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48361","Texas","TX ","Orange",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48363","Texas","TX ","Palo Pinto",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48365","Texas","TX ","Panola",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48367","Texas","TX ","Parker",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48369","Texas","TX ","Parmer",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48371","Texas","TX ","Pecos",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48373","Texas","TX ","Polk",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48375","Texas","TX ","Potter",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48377","Texas","TX ","Presidio",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48379","Texas","TX ","Rains",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48381","Texas","TX ","Randall",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48383","Texas","TX ","Reagan",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48385","Texas","TX ","Real",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48387","Texas","TX ","Red River",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48389","Texas","TX ","Reeves",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48391","Texas","TX ","Refugio",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48393","Texas","TX ","Roberts",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48395","Texas","TX ","Robertson",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48397","Texas","TX ","Rockwall",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48399","Texas","TX ","Runnels",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48401","Texas","TX ","Rusk",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48403","Texas","TX ","Sabine",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48405","Texas","TX ","San Augustine",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48407","Texas","TX ","San Jacinto",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48409","Texas","TX ","San Patricio",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48411","Texas","TX ","San Saba",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48413","Texas","TX ","Schleicher",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48415","Texas","TX ","Scurry",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48417","Texas","TX ","Shackelford",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48419","Texas","TX ","Shelby",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48421","Texas","TX ","Sherman",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48423","Texas","TX ","Smith",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48425","Texas","TX ","Somervell",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48427","Texas","TX ","Starr",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48429","Texas","TX ","Stephens",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48431","Texas","TX ","Sterling",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48433","Texas","TX ","Stonewall",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48435","Texas","TX ","Sutton",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48437","Texas","TX ","Swisher",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48439","Texas","TX ","Tarrant",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48441","Texas","TX ","Taylor",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48443","Texas","TX ","Terrell",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48445","Texas","TX ","Terry",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48447","Texas","TX ","Throckmorton",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48449","Texas","TX ","Titus",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48451","Texas","TX ","Tom Green",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48453","Texas","TX ","Travis",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48455","Texas","TX ","Trinity",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48457","Texas","TX ","Tyler",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48459","Texas","TX ","Upshur",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48461","Texas","TX ","Upton",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48463","Texas","TX ","Uvalde",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48465","Texas","TX ","Val Verde",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48467","Texas","TX ","Van Zandt",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48469","Texas","TX ","Victoria",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48471","Texas","TX ","Walker",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48473","Texas","TX ","Waller",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48475","Texas","TX ","Ward",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48477","Texas","TX ","Washington",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48479","Texas","TX ","Webb",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48481","Texas","TX ","Wharton",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48483","Texas","TX ","Wheeler",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48485","Texas","TX ","Wichita",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48487","Texas","TX ","Wilbarger",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48489","Texas","TX ","Willacy",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48491","Texas","TX ","Williamson",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48493","Texas","TX ","Wilson",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48495","Texas","TX ","Winkler",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48497","Texas","TX ","Wise",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48499","Texas","TX ","Wood",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48501","Texas","TX ","Yoakum",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48503","Texas","TX ","Young",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48505","Texas","TX ","Zapata",NA,NA,NA,NA,NA,NA,NA
-"2021-05-04","48507","Texas","TX ","Zavala",NA,NA,NA,NA,NA,NA,NA
+"2021-05-04","48001","Texas","TX ","Anderson",,,,,,,
+"2021-05-04","48003","Texas","TX ","Andrews",,,,,,,
+"2021-05-04","48005","Texas","TX ","Angelina",,,,,,,
+"2021-05-04","48007","Texas","TX ","Aransas",,,,,,,
+"2021-05-04","48009","Texas","TX ","Archer",,,,,,,
+"2021-05-04","48011","Texas","TX ","Armstrong",,,,,,,
+"2021-05-04","48013","Texas","TX ","Atascosa",,,,,,,
+"2021-05-04","48015","Texas","TX ","Austin",,,,,,,
+"2021-05-04","48017","Texas","TX ","Bailey",,,,,,,
+"2021-05-04","48019","Texas","TX ","Bandera",,,,,,,
+"2021-05-04","48021","Texas","TX ","Bastrop",,,,,,,
+"2021-05-04","48023","Texas","TX ","Baylor",,,,,,,
+"2021-05-04","48025","Texas","TX ","Bee",,,,,,,
+"2021-05-04","48027","Texas","TX ","Bell",,,,,,,
+"2021-05-04","48029","Texas","TX ","Bexar",,,,,,,
+"2021-05-04","48031","Texas","TX ","Blanco",,,,,,,
+"2021-05-04","48033","Texas","TX ","Borden",,,,,,,
+"2021-05-04","48035","Texas","TX ","Bosque",,,,,,,
+"2021-05-04","48037","Texas","TX ","Bowie",,,,,,,
+"2021-05-04","48039","Texas","TX ","Brazoria",,,,,,,
+"2021-05-04","48041","Texas","TX ","Brazos",,,,,,,
+"2021-05-04","48043","Texas","TX ","Brewster",,,,,,,
+"2021-05-04","48045","Texas","TX ","Briscoe",,,,,,,
+"2021-05-04","48047","Texas","TX ","Brooks",,,,,,,
+"2021-05-04","48049","Texas","TX ","Brown",,,,,,,
+"2021-05-04","48051","Texas","TX ","Burleson",,,,,,,
+"2021-05-04","48053","Texas","TX ","Burnet",,,,,,,
+"2021-05-04","48055","Texas","TX ","Caldwell",,,,,,,
+"2021-05-04","48057","Texas","TX ","Calhoun",,,,,,,
+"2021-05-04","48059","Texas","TX ","Callahan",,,,,,,
+"2021-05-04","48061","Texas","TX ","Cameron",,,,,,,
+"2021-05-04","48063","Texas","TX ","Camp",,,,,,,
+"2021-05-04","48065","Texas","TX ","Carson",,,,,,,
+"2021-05-04","48067","Texas","TX ","Cass",,,,,,,
+"2021-05-04","48069","Texas","TX ","Castro",,,,,,,
+"2021-05-04","48071","Texas","TX ","Chambers",,,,,,,
+"2021-05-04","48073","Texas","TX ","Cherokee",,,,,,,
+"2021-05-04","48075","Texas","TX ","Childress",,,,,,,
+"2021-05-04","48077","Texas","TX ","Clay",,,,,,,
+"2021-05-04","48079","Texas","TX ","Cochran",,,,,,,
+"2021-05-04","48081","Texas","TX ","Coke",,,,,,,
+"2021-05-04","48083","Texas","TX ","Coleman",,,,,,,
+"2021-05-04","48085","Texas","TX ","Collin",,,,,,,
+"2021-05-04","48087","Texas","TX ","Collingsworth",,,,,,,
+"2021-05-04","48089","Texas","TX ","Colorado",,,,,,,
+"2021-05-04","48091","Texas","TX ","Comal",,,,,,,
+"2021-05-04","48093","Texas","TX ","Comanche",,,,,,,
+"2021-05-04","48095","Texas","TX ","Concho",,,,,,,
+"2021-05-04","48097","Texas","TX ","Cooke",,,,,,,
+"2021-05-04","48099","Texas","TX ","Coryell",,,,,,,
+"2021-05-04","48101","Texas","TX ","Cottle",,,,,,,
+"2021-05-04","48103","Texas","TX ","Crane",,,,,,,
+"2021-05-04","48105","Texas","TX ","Crockett",,,,,,,
+"2021-05-04","48107","Texas","TX ","Crosby",,,,,,,
+"2021-05-04","48109","Texas","TX ","Culberson",,,,,,,
+"2021-05-04","48111","Texas","TX ","Dallam",,,,,,,
+"2021-05-04","48113","Texas","TX ","Dallas",,,,,,,
+"2021-05-04","48115","Texas","TX ","Dawson",,,,,,,
+"2021-05-04","48117","Texas","TX ","Deaf Smith",,,,,,,
+"2021-05-04","48119","Texas","TX ","Delta",,,,,,,
+"2021-05-04","48121","Texas","TX ","Denton",,,,,,,
+"2021-05-04","48123","Texas","TX ","DeWitt",,,,,,,
+"2021-05-04","48125","Texas","TX ","Dickens",,,,,,,
+"2021-05-04","48127","Texas","TX ","Dimmit",,,,,,,
+"2021-05-04","48129","Texas","TX ","Donley",,,,,,,
+"2021-05-04","48131","Texas","TX ","Duval",,,,,,,
+"2021-05-04","48133","Texas","TX ","Eastland",,,,,,,
+"2021-05-04","48135","Texas","TX ","Ector",,,,,,,
+"2021-05-04","48137","Texas","TX ","Edwards",,,,,,,
+"2021-05-04","48141","Texas","TX ","El Paso",,,,,,,
+"2021-05-04","48139","Texas","TX ","Ellis",,,,,,,
+"2021-05-04","48143","Texas","TX ","Erath",,,,,,,
+"2021-05-04","48145","Texas","TX ","Falls",,,,,,,
+"2021-05-04","48147","Texas","TX ","Fannin",,,,,,,
+"2021-05-04","48149","Texas","TX ","Fayette",,,,,,,
+"2021-05-04","48151","Texas","TX ","Fisher",,,,,,,
+"2021-05-04","48153","Texas","TX ","Floyd",,,,,,,
+"2021-05-04","48155","Texas","TX ","Foard",,,,,,,
+"2021-05-04","48157","Texas","TX ","Fort Bend",,,,,,,
+"2021-05-04","48159","Texas","TX ","Franklin",,,,,,,
+"2021-05-04","48161","Texas","TX ","Freestone",,,,,,,
+"2021-05-04","48163","Texas","TX ","Frio",,,,,,,
+"2021-05-04","48165","Texas","TX ","Gaines",,,,,,,
+"2021-05-04","48167","Texas","TX ","Galveston",,,,,,,
+"2021-05-04","48169","Texas","TX ","Garza",,,,,,,
+"2021-05-04","48171","Texas","TX ","Gillespie",,,,,,,
+"2021-05-04","48173","Texas","TX ","Glasscock",,,,,,,
+"2021-05-04","48175","Texas","TX ","Goliad",,,,,,,
+"2021-05-04","48177","Texas","TX ","Gonzales",,,,,,,
+"2021-05-04","48179","Texas","TX ","Gray",,,,,,,
+"2021-05-04","48181","Texas","TX ","Grayson",,,,,,,
+"2021-05-04","48183","Texas","TX ","Gregg",,,,,,,
+"2021-05-04","48185","Texas","TX ","Grimes",,,,,,,
+"2021-05-04","48187","Texas","TX ","Guadalupe",,,,,,,
+"2021-05-04","48189","Texas","TX ","Hale",,,,,,,
+"2021-05-04","48191","Texas","TX ","Hall",,,,,,,
+"2021-05-04","48193","Texas","TX ","Hamilton",,,,,,,
+"2021-05-04","48195","Texas","TX ","Hansford",,,,,,,
+"2021-05-04","48197","Texas","TX ","Hardeman",,,,,,,
+"2021-05-04","48199","Texas","TX ","Hardin",,,,,,,
+"2021-05-04","48201","Texas","TX ","Harris",,,,,,,
+"2021-05-04","48203","Texas","TX ","Harrison",,,,,,,
+"2021-05-04","48205","Texas","TX ","Hartley",,,,,,,
+"2021-05-04","48207","Texas","TX ","Haskell",,,,,,,
+"2021-05-04","48209","Texas","TX ","Hays",,,,,,,
+"2021-05-04","48211","Texas","TX ","Hemphill",,,,,,,
+"2021-05-04","48213","Texas","TX ","Henderson",,,,,,,
+"2021-05-04","48215","Texas","TX ","Hidalgo",,,,,,,
+"2021-05-04","48217","Texas","TX ","Hill",,,,,,,
+"2021-05-04","48219","Texas","TX ","Hockley",,,,,,,
+"2021-05-04","48221","Texas","TX ","Hood",,,,,,,
+"2021-05-04","48223","Texas","TX ","Hopkins",,,,,,,
+"2021-05-04","48225","Texas","TX ","Houston",,,,,,,
+"2021-05-04","48227","Texas","TX ","Howard",,,,,,,
+"2021-05-04","48229","Texas","TX ","Hudspeth",,,,,,,
+"2021-05-04","48231","Texas","TX ","Hunt",,,,,,,
+"2021-05-04","48233","Texas","TX ","Hutchinson",,,,,,,
+"2021-05-04","48235","Texas","TX ","Irion",,,,,,,
+"2021-05-04","48237","Texas","TX ","Jack",,,,,,,
+"2021-05-04","48239","Texas","TX ","Jackson",,,,,,,
+"2021-05-04","48241","Texas","TX ","Jasper",,,,,,,
+"2021-05-04","48243","Texas","TX ","Jeff Davis",,,,,,,
+"2021-05-04","48245","Texas","TX ","Jefferson",,,,,,,
+"2021-05-04","48247","Texas","TX ","Jim Hogg",,,,,,,
+"2021-05-04","48249","Texas","TX ","Jim Wells",,,,,,,
+"2021-05-04","48251","Texas","TX ","Johnson",,,,,,,
+"2021-05-04","48253","Texas","TX ","Jones",,,,,,,
+"2021-05-04","48255","Texas","TX ","Karnes",,,,,,,
+"2021-05-04","48257","Texas","TX ","Kaufman",,,,,,,
+"2021-05-04","48259","Texas","TX ","Kendall",,,,,,,
+"2021-05-04","48261","Texas","TX ","Kenedy",,,,,,,
+"2021-05-04","48263","Texas","TX ","Kent",,,,,,,
+"2021-05-04","48265","Texas","TX ","Kerr",,,,,,,
+"2021-05-04","48267","Texas","TX ","Kimble",,,,,,,
+"2021-05-04","48269","Texas","TX ","King",,,,,,,
+"2021-05-04","48271","Texas","TX ","Kinney",,,,,,,
+"2021-05-04","48273","Texas","TX ","Kleberg",,,,,,,
+"2021-05-04","48275","Texas","TX ","Knox",,,,,,,
+"2021-05-04","48283","Texas","TX ","La Salle",,,,,,,
+"2021-05-04","48277","Texas","TX ","Lamar",,,,,,,
+"2021-05-04","48279","Texas","TX ","Lamb",,,,,,,
+"2021-05-04","48281","Texas","TX ","Lampasas",,,,,,,
+"2021-05-04","48285","Texas","TX ","Lavaca",,,,,,,
+"2021-05-04","48287","Texas","TX ","Lee",,,,,,,
+"2021-05-04","48289","Texas","TX ","Leon",,,,,,,
+"2021-05-04","48291","Texas","TX ","Liberty",,,,,,,
+"2021-05-04","48293","Texas","TX ","Limestone",,,,,,,
+"2021-05-04","48295","Texas","TX ","Lipscomb",,,,,,,
+"2021-05-04","48297","Texas","TX ","Live Oak",,,,,,,
+"2021-05-04","48299","Texas","TX ","Llano",,,,,,,
+"2021-05-04","48301","Texas","TX ","Loving",,,,,,,
+"2021-05-04","48303","Texas","TX ","Lubbock",,,,,,,
+"2021-05-04","48305","Texas","TX ","Lynn",,,,,,,
+"2021-05-04","48313","Texas","TX ","Madison",,,,,,,
+"2021-05-04","48315","Texas","TX ","Marion",,,,,,,
+"2021-05-04","48317","Texas","TX ","Martin",,,,,,,
+"2021-05-04","48319","Texas","TX ","Mason",,,,,,,
+"2021-05-04","48321","Texas","TX ","Matagorda",,,,,,,
+"2021-05-04","48323","Texas","TX ","Maverick",,,,,,,
+"2021-05-04","48307","Texas","TX ","McCulloch",,,,,,,
+"2021-05-04","48309","Texas","TX ","McLennan",,,,,,,
+"2021-05-04","48311","Texas","TX ","McMullen",,,,,,,
+"2021-05-04","48325","Texas","TX ","Medina",,,,,,,
+"2021-05-04","48327","Texas","TX ","Menard",,,,,,,
+"2021-05-04","48329","Texas","TX ","Midland",,,,,,,
+"2021-05-04","48331","Texas","TX ","Milam",,,,,,,
+"2021-05-04","48333","Texas","TX ","Mills",,,,,,,
+"2021-05-04","48335","Texas","TX ","Mitchell",,,,,,,
+"2021-05-04","48337","Texas","TX ","Montague",,,,,,,
+"2021-05-04","48339","Texas","TX ","Montgomery",,,,,,,
+"2021-05-04","48341","Texas","TX ","Moore",,,,,,,
+"2021-05-04","48343","Texas","TX ","Morris",,,,,,,
+"2021-05-04","48345","Texas","TX ","Motley",,,,,,,
+"2021-05-04","48347","Texas","TX ","Nacogdoches",,,,,,,
+"2021-05-04","48349","Texas","TX ","Navarro",,,,,,,
+"2021-05-04","48351","Texas","TX ","Newton",,,,,,,
+"2021-05-04","48353","Texas","TX ","Nolan",,,,,,,
+"2021-05-04","48355","Texas","TX ","Nueces",,,,,,,
+"2021-05-04","48357","Texas","TX ","Ochiltree",,,,,,,
+"2021-05-04","48359","Texas","TX ","Oldham",,,,,,,
+"2021-05-04","48361","Texas","TX ","Orange",,,,,,,
+"2021-05-04","48363","Texas","TX ","Palo Pinto",,,,,,,
+"2021-05-04","48365","Texas","TX ","Panola",,,,,,,
+"2021-05-04","48367","Texas","TX ","Parker",,,,,,,
+"2021-05-04","48369","Texas","TX ","Parmer",,,,,,,
+"2021-05-04","48371","Texas","TX ","Pecos",,,,,,,
+"2021-05-04","48373","Texas","TX ","Polk",,,,,,,
+"2021-05-04","48375","Texas","TX ","Potter",,,,,,,
+"2021-05-04","48377","Texas","TX ","Presidio",,,,,,,
+"2021-05-04","48379","Texas","TX ","Rains",,,,,,,
+"2021-05-04","48381","Texas","TX ","Randall",,,,,,,
+"2021-05-04","48383","Texas","TX ","Reagan",,,,,,,
+"2021-05-04","48385","Texas","TX ","Real",,,,,,,
+"2021-05-04","48387","Texas","TX ","Red River",,,,,,,
+"2021-05-04","48389","Texas","TX ","Reeves",,,,,,,
+"2021-05-04","48391","Texas","TX ","Refugio",,,,,,,
+"2021-05-04","48393","Texas","TX ","Roberts",,,,,,,
+"2021-05-04","48395","Texas","TX ","Robertson",,,,,,,
+"2021-05-04","48397","Texas","TX ","Rockwall",,,,,,,
+"2021-05-04","48399","Texas","TX ","Runnels",,,,,,,
+"2021-05-04","48401","Texas","TX ","Rusk",,,,,,,
+"2021-05-04","48403","Texas","TX ","Sabine",,,,,,,
+"2021-05-04","48405","Texas","TX ","San Augustine",,,,,,,
+"2021-05-04","48407","Texas","TX ","San Jacinto",,,,,,,
+"2021-05-04","48409","Texas","TX ","San Patricio",,,,,,,
+"2021-05-04","48411","Texas","TX ","San Saba",,,,,,,
+"2021-05-04","48413","Texas","TX ","Schleicher",,,,,,,
+"2021-05-04","48415","Texas","TX ","Scurry",,,,,,,
+"2021-05-04","48417","Texas","TX ","Shackelford",,,,,,,
+"2021-05-04","48419","Texas","TX ","Shelby",,,,,,,
+"2021-05-04","48421","Texas","TX ","Sherman",,,,,,,
+"2021-05-04","48423","Texas","TX ","Smith",,,,,,,
+"2021-05-04","48425","Texas","TX ","Somervell",,,,,,,
+"2021-05-04","48427","Texas","TX ","Starr",,,,,,,
+"2021-05-04","48429","Texas","TX ","Stephens",,,,,,,
+"2021-05-04","48431","Texas","TX ","Sterling",,,,,,,
+"2021-05-04","48433","Texas","TX ","Stonewall",,,,,,,
+"2021-05-04","48435","Texas","TX ","Sutton",,,,,,,
+"2021-05-04","48437","Texas","TX ","Swisher",,,,,,,
+"2021-05-04","48439","Texas","TX ","Tarrant",,,,,,,
+"2021-05-04","48441","Texas","TX ","Taylor",,,,,,,
+"2021-05-04","48443","Texas","TX ","Terrell",,,,,,,
+"2021-05-04","48445","Texas","TX ","Terry",,,,,,,
+"2021-05-04","48447","Texas","TX ","Throckmorton",,,,,,,
+"2021-05-04","48449","Texas","TX ","Titus",,,,,,,
+"2021-05-04","48451","Texas","TX ","Tom Green",,,,,,,
+"2021-05-04","48453","Texas","TX ","Travis",,,,,,,
+"2021-05-04","48455","Texas","TX ","Trinity",,,,,,,
+"2021-05-04","48457","Texas","TX ","Tyler",,,,,,,
+"2021-05-04","48459","Texas","TX ","Upshur",,,,,,,
+"2021-05-04","48461","Texas","TX ","Upton",,,,,,,
+"2021-05-04","48463","Texas","TX ","Uvalde",,,,,,,
+"2021-05-04","48465","Texas","TX ","Val Verde",,,,,,,
+"2021-05-04","48467","Texas","TX ","Van Zandt",,,,,,,
+"2021-05-04","48469","Texas","TX ","Victoria",,,,,,,
+"2021-05-04","48471","Texas","TX ","Walker",,,,,,,
+"2021-05-04","48473","Texas","TX ","Waller",,,,,,,
+"2021-05-04","48475","Texas","TX ","Ward",,,,,,,
+"2021-05-04","48477","Texas","TX ","Washington",,,,,,,
+"2021-05-04","48479","Texas","TX ","Webb",,,,,,,
+"2021-05-04","48481","Texas","TX ","Wharton",,,,,,,
+"2021-05-04","48483","Texas","TX ","Wheeler",,,,,,,
+"2021-05-04","48485","Texas","TX ","Wichita",,,,,,,
+"2021-05-04","48487","Texas","TX ","Wilbarger",,,,,,,
+"2021-05-04","48489","Texas","TX ","Willacy",,,,,,,
+"2021-05-04","48491","Texas","TX ","Williamson",,,,,,,
+"2021-05-04","48493","Texas","TX ","Wilson",,,,,,,
+"2021-05-04","48495","Texas","TX ","Winkler",,,,,,,
+"2021-05-04","48497","Texas","TX ","Wise",,,,,,,
+"2021-05-04","48499","Texas","TX ","Wood",,,,,,,
+"2021-05-04","48501","Texas","TX ","Yoakum",,,,,,,
+"2021-05-04","48503","Texas","TX ","Young",,,,,,,
+"2021-05-04","48505","Texas","TX ","Zapata",,,,,,,
+"2021-05-04","48507","Texas","TX ","Zavala",,,,,,,
 "2021-05-04","49001","Utah","UT ","Beaver",1284,28.3,598,63.2,1286,19.2,96
 "2021-05-04","49003","Utah","UT ","Box Elder",11260,29.2,4087,55.2,11360,20.3,96
 "2021-05-04","49005","Utah","UT ","Cache",29261,32.6,6848,54.5,29651,23.1,96
@@ -2913,7 +2913,7 @@
 "2021-05-04","51025","Virginia","VA ","Brunswick",3285,24.2,1518,43,3292,20.3,50.1
 "2021-05-04","51027","Virginia","VA ","Buchanan",4652,26.8,1848,38.2,4665,22.2,50.1
 "2021-05-04","51029","Virginia","VA ","Buckingham",969,6.9,486,14,969,5.7,50.1
-"2021-05-04","51530","Virginia","VA ","Buena Vista",NA,NA,NA,NA,NA,NA,NA
+"2021-05-04","51530","Virginia","VA ","Buena Vista",,,,,,,
 "2021-05-04","51031","Virginia","VA ","Campbell",5836,13.2,2604,23.4,5853,10.7,50.1
 "2021-05-04","51033","Virginia","VA ","Caroline",1936,8.2,882,16.9,1939,6.3,50.1
 "2021-05-04","51035","Virginia","VA ","Carroll",1540,6.3,847,11.2,1542,5.2,50.1
@@ -2924,14 +2924,14 @@
 "2021-05-04","51041","Virginia","VA ","Chesterfield",64663,24,22102,40.7,65353,18.5,50.1
 "2021-05-04","51043","Virginia","VA ","Clarke",3952,33.6,1812,56.7,3972,27.2,50.1
 "2021-05-04","51570","Virginia","VA ","Colonial Heights",94,0.7,17,0.5,94,0.5,50.1
-"2021-05-04","51580","Virginia","VA ","Covington",NA,NA,NA,NA,NA,NA,NA
+"2021-05-04","51580","Virginia","VA ","Covington",,,,,,,
 "2021-05-04","51045","Virginia","VA ","Craig",64,1.5,46,3.7,64,1.2,50.1
 "2021-05-04","51047","Virginia","VA ","Culpeper",3394,8.6,1247,14.8,3402,6.5,50.1
 "2021-05-04","51049","Virginia","VA ","Cumberland",401,5,198,8.6,401,4,50.1
 "2021-05-04","51590","Virginia","VA ","Danville",36,0.1,10,0.1,36,0.1,50.1
 "2021-05-04","51051","Virginia","VA ","Dickenson",3122,27.1,1471,44.7,3130,21.9,50.1
 "2021-05-04","51053","Virginia","VA ","Dinwiddie",4710,20.6,1584,30.9,4722,16.5,50.1
-"2021-05-04","51595","Virginia","VA ","Emporia",NA,NA,NA,NA,NA,NA,NA
+"2021-05-04","51595","Virginia","VA ","Emporia",,,,,,,
 "2021-05-04","51057","Virginia","VA ","Essex",937,10.5,468,18,940,8.6,50.1
 "2021-05-04","51059","Virginia","VA ","Fairfax",320723,36.4,88501,55.2,323869,28.2,50.1
 "2021-05-04","51600","Virginia","VA ","Fairfax",836,4.6,243,7,842,3.5,50.1
@@ -2940,10 +2940,10 @@
 "2021-05-04","51063","Virginia","VA ","Floyd",467,3.7,219,5.9,467,3,50.1
 "2021-05-04","51065","Virginia","VA ","Fluvanna",6904,31.6,2994,53.5,6941,25.5,50.1
 "2021-05-04","51067","Virginia","VA ","Franklin",8353,18.3,4206,31,8380,15,50.1
-"2021-05-04","51620","Virginia","VA ","Franklin",NA,NA,NA,NA,NA,NA,NA
+"2021-05-04","51620","Virginia","VA ","Franklin",,,,,,,
 "2021-05-04","51069","Virginia","VA ","Frederick",8796,12.7,3890,24.4,8825,9.9,50.1
 "2021-05-04","51630","Virginia","VA ","Fredericksburg",793,3.5,209,6,799,2.8,50.1
-"2021-05-04","51640","Virginia","VA ","Galax",NA,NA,NA,NA,NA,NA,NA
+"2021-05-04","51640","Virginia","VA ","Galax",,,,,,,
 "2021-05-04","51071","Virginia","VA ","Giles",1919,14.4,855,22.9,1922,11.5,50.1
 "2021-05-04","51073","Virginia","VA ","Gloucester",11601,38.8,5216,71.2,11626,31.1,50.1
 "2021-05-04","51075","Virginia","VA ","Goochland",5949,30.2,2660,48.9,5976,25.2,50.1
@@ -2957,7 +2957,7 @@
 "2021-05-04","51087","Virginia","VA ","Henrico",41230,16.1,14440,27.4,41682,12.6,50.1
 "2021-05-04","51089","Virginia","VA ","Henry",4864,11.9,2369,19.1,4875,9.6,50.1
 "2021-05-04","51091","Virginia","VA ","Highland",897,47.3,518,66.6,899,41.1,50.1
-"2021-05-04","51670","Virginia","VA ","Hopewell",NA,NA,NA,NA,NA,NA,NA
+"2021-05-04","51670","Virginia","VA ","Hopewell",,,,,,,
 "2021-05-04","51093","Virginia","VA ","Isle of Wight",3663,12.5,1440,19.6,3683,9.9,50.1
 "2021-05-04","51095","Virginia","VA ","James City",3438,5.6,1491,7.6,3458,4.5,50.1
 "2021-05-04","51097","Virginia","VA ","King and Queen",1212,20.9,608,36.6,1215,17.3,50.1
@@ -2965,7 +2965,7 @@
 "2021-05-04","51101","Virginia","VA ","King William",3036,22.9,1292,46.1,3046,17.8,50.1
 "2021-05-04","51103","Virginia","VA ","Lancaster",2771,30.9,1710,44,2773,26.2,50.1
 "2021-05-04","51105","Virginia","VA ","Lee",6058,31.7,2628,50.4,6077,25.9,50.1
-"2021-05-04","51678","Virginia","VA ","Lexington",NA,NA,NA,NA,NA,NA,NA
+"2021-05-04","51678","Virginia","VA ","Lexington",,,,,,,
 "2021-05-04","51107","Virginia","VA ","Loudoun",98805,33.1,21651,53.9,100204,24.2,50.1
 "2021-05-04","51109","Virginia","VA ","Louisa",729,2.4,371,4.9,729,1.9,50.1
 "2021-05-04","51111","Virginia","VA ","Lunenburg",2777,28.1,1320,47.7,2781,22.8,50.1
@@ -2973,7 +2973,7 @@
 "2021-05-04","51113","Virginia","VA ","Madison",3595,33.9,1636,53.9,3608,27.2,50.1
 "2021-05-04","51683","Virginia","VA ","Manassas",563,1.9,152,3.4,569,1.4,50.1
 "2021-05-04","51685","Virginia","VA ","Manassas Park",109,0.8,19,1.2,111,0.6,50.1
-"2021-05-04","51690","Virginia","VA ","Martinsville",NA,NA,NA,NA,NA,NA,NA
+"2021-05-04","51690","Virginia","VA ","Martinsville",,,,,,,
 "2021-05-04","51115","Virginia","VA ","Mathews",2981,40,1754,63,2984,33.8,50.1
 "2021-05-04","51117","Virginia","VA ","Mecklenburg",2307,9.3,1112,14.1,2312,7.6,50.1
 "2021-05-04","51119","Virginia","VA ","Middlesex",3798,42.7,2184,64.5,3811,36,50.1
@@ -2984,14 +2984,14 @@
 "2021-05-04","51710","Virginia","VA ","Norfolk",56588,28.9,15440,54.9,57087,23.5,50.1
 "2021-05-04","51131","Virginia","VA ","Northampton",4086,43.4,2028,64.1,4101,35,50.1
 "2021-05-04","51133","Virginia","VA ","Northumberland",2070,20,1360,30,2074,17.1,50.1
-"2021-05-04","51720","Virginia","VA ","Norton",NA,NA,NA,NA,NA,NA,NA
+"2021-05-04","51720","Virginia","VA ","Norton",,,,,,,
 "2021-05-04","51135","Virginia","VA ","Nottoway",1561,12.7,813,27.6,1565,10.3,50.1
 "2021-05-04","51137","Virginia","VA ","Orange",1276,4.4,597,7.8,1279,3.5,50.1
 "2021-05-04","51139","Virginia","VA ","Page",1679,8.8,809,15.4,1686,7.1,50.1
 "2021-05-04","51141","Virginia","VA ","Patrick",2784,19.1,1492,31.6,2785,15.8,50.1
 "2021-05-04","51730","Virginia","VA ","Petersburg",544,2.2,65,1.2,544,1.7,50.1
 "2021-05-04","51143","Virginia","VA ","Pittsylvania",8533,17.3,3887,27.6,8556,14.2,50.1
-"2021-05-04","51735","Virginia","VA ","Poquoson",NA,NA,NA,NA,NA,NA,NA
+"2021-05-04","51735","Virginia","VA ","Poquoson",,,,,,,
 "2021-05-04","51740","Virginia","VA ","Portsmouth",42018,57.9,9838,68.8,42063,44.6,50.1
 "2021-05-04","51145","Virginia","VA ","Powhatan",422,1.7,234,4.2,422,1.4,50.1
 "2021-05-04","51147","Virginia","VA ","Prince Edward",427,2.2,221,5.7,428,1.9,50.1
@@ -3218,58 +3218,58 @@
 "2021-05-04","56041","Wyoming","WY ","Uinta",4942,34.1,1964,64.9,4944,24.4,96.8
 "2021-05-04","56043","Wyoming","WY ","Washakie",2043,33.9,1128,65.2,2045,26.2,96.8
 "2021-05-04","56045","Wyoming","WY ","Weston",1548,28.1,860,58.2,1549,22.4,96.8
-"2021-05-04","UNK","Alabama","AL ","Unknown County",93622,NA,29319,NA,93893,NA,92
-"2021-05-04","UNK","Alaska","AK ","Unknown County",6112,NA,1185,NA,6184,NA,97.7
-"2021-05-04","UNK","American Samoa","AS ","Unknown County",16806,NA,2177,NA,17353,NA,NA
-"2021-05-04","UNK","Arizona","AZ ","Unknown County",53665,NA,16751,NA,53880,NA,97.5
-"2021-05-04","UNK","Arkansas","AR ","Unknown County",87137,NA,27639,NA,87581,NA,89
-"2021-05-04","UNK","California","CA ","Unknown County",410106,NA,107922,NA,411904,NA,96.9
-"2021-05-04","UNK","Colorado","CO ","Unknown County",646475,NA,291720,NA,648694,NA,67.1
-"2021-05-04","UNK","Connecticut","CT ","Unknown County",23759,NA,4918,NA,23832,NA,98.4
-"2021-05-04","UNK","Delaware","DE ","Unknown County",12580,NA,4211,NA,12602,NA,96.2
-"2021-05-04","UNK","District of Columbia","DC ","Unknown County",13812,NA,1399,NA,13826,NA,93.7
-"2021-05-04","UNK","Florida","FL ","Unknown County",82017,NA,25920,NA,82094,NA,98.7
-"2021-05-04","UNK","Georgia","GA ","Unknown County",1392389,NA,472992,NA,1404162,NA,48.6
+"2021-05-04","UNK","Alabama","AL ","Unknown County",93622,,29319,,93893,,92
+"2021-05-04","UNK","Alaska","AK ","Unknown County",6112,,1185,,6184,,97.7
+"2021-05-04","UNK","American Samoa","AS ","Unknown County",16806,,2177,,17353,,
+"2021-05-04","UNK","Arizona","AZ ","Unknown County",53665,,16751,,53880,,97.5
+"2021-05-04","UNK","Arkansas","AR ","Unknown County",87137,,27639,,87581,,89
+"2021-05-04","UNK","California","CA ","Unknown County",410106,,107922,,411904,,96.9
+"2021-05-04","UNK","Colorado","CO ","Unknown County",646475,,291720,,648694,,67.1
+"2021-05-04","UNK","Connecticut","CT ","Unknown County",23759,,4918,,23832,,98.4
+"2021-05-04","UNK","Delaware","DE ","Unknown County",12580,,4211,,12602,,96.2
+"2021-05-04","UNK","District of Columbia","DC ","Unknown County",13812,,1399,,13826,,93.7
+"2021-05-04","UNK","Florida","FL ","Unknown County",82017,,25920,,82094,,98.7
+"2021-05-04","UNK","Georgia","GA ","Unknown County",1392389,,472992,,1404162,,48.6
 "2021-05-04","66010","Guam","GU ","Guam",45197,35,9137,32.5,46178,27.9,81.2
-"2021-05-04","UNK","Guam","GU ","Unknown County",10562,NA,2699,NA,10684,NA,81.2
-"2021-05-04","UNK","Idaho","ID ","Unknown County",10151,NA,3495,NA,10158,NA,98
-"2021-05-04","UNK","Illinois","IL ","Unknown County",101198,NA,26069,NA,101487,NA,97.5
-"2021-05-04","UNK","Indiana","IN ","Unknown County",27423,NA,6546,NA,27479,NA,98.5
-"2021-05-04","UNK","Iowa","IA ","Unknown County",29681,NA,8211,NA,29774,NA,97.4
-"2021-05-04","UNK","Kansas","KS ","Unknown County",65500,NA,20663,NA,65964,NA,93.1
-"2021-05-04","UNK","Kentucky","KY ","Unknown County",95910,NA,32387,NA,96378,NA,93.4
-"2021-05-04","UNK","Louisiana","LA ","Unknown County",60074,NA,26954,NA,60174,NA,95.2
-"2021-05-04","UNK","Maine","ME ","Unknown County",25075,NA,7857,NA,25101,NA,95.5
-"2021-05-04","UNK","Maryland","MD ","Unknown County",27000,NA,6467,NA,27101,NA,98.7
-"2021-05-04","UNK","Massachusetts","MA ","Unknown County",319652,NA,120433,NA,320930,NA,87.9
-"2021-05-04","UNK","Michigan","MI ","Unknown County",173995,NA,56480,NA,175039,NA,94.7
-"2021-05-04","UNK","Minnesota","MN ","Unknown County",91708,NA,28392,NA,92277,NA,95.4
-"2021-05-04","UNK","Mississippi","MS ","Unknown County",10737,NA,3212,NA,10757,NA,98.5
-"2021-05-04","UNK","Missouri","MO ","Unknown County",167545,NA,50333,NA,167914,NA,90.4
-"2021-05-04","UNK","Montana","MT ","Unknown County",15016,NA,5756,NA,15043,NA,95.7
-"2021-05-04","UNK","Nebraska","NE ","Unknown County",84835,NA,32171,NA,85004,NA,87.2
-"2021-05-04","UNK","Nevada","NV ","Unknown County",38143,NA,10131,NA,38250,NA,95.7
-"2021-05-04","UNK","New Hampshire","NH ","Unknown County",77506,NA,31506,NA,77680,NA,81.1
-"2021-05-04","UNK","New Jersey","NJ ","Unknown County",287672,NA,99692,NA,293595,NA,91.2
-"2021-05-04","UNK","New Mexico","NM ","Unknown County",193120,NA,65125,NA,193490,NA,76.3
-"2021-05-04","UNK","New York","NY ","Unknown County",195843,NA,53819,NA,196080,NA,97.2
-"2021-05-04","UNK","North Carolina","NC ","Unknown County",120016,NA,37441,NA,120552,NA,96.2
-"2021-05-04","UNK","North Dakota","ND ","Unknown County",10899,NA,2913,NA,10937,NA,95.7
-"2021-05-04","UNK","Northern Mariana Islands","MP ","Unknown County",18374,NA,2290,NA,18673,NA,NA
-"2021-05-04","UNK","Ohio","OH ","Unknown County",94532,NA,33332,NA,94661,NA,97.6
-"2021-05-04","UNK","Oklahoma","OK ","Unknown County",83316,NA,22794,NA,83837,NA,93
-"2021-05-04","UNK","Oregon","OR ","Unknown County",33882,NA,10996,NA,33955,NA,97.5
-"2021-05-04","UNK","Palau","PW ","Unknown County",8961,NA,1469,NA,8961,NA,NA
-"2021-05-04","UNK","Pennsylvania","PA ","Unknown County",311217,NA,116368,NA,312163,NA,92.8
-"2021-05-04","UNK","Puerto Rico","PR ","Unknown County",31814,NA,16329,NA,31834,NA,96.1
-"2021-05-04","UNK","Rhode Island","RI ","Unknown County",21289,NA,3469,NA,21372,NA,94.8
-"2021-05-04","UNK","South Carolina","SC ","Unknown County",98973,NA,39437,NA,99341,NA,93.2
-"2021-05-04","UNK","South Dakota","SD ","Unknown County",65383,NA,30374,NA,65475,NA,80.6
-"2021-05-04","UNK","Tennessee","TN ","Unknown County",34983,NA,10321,NA,35032,NA,98
-"2021-05-04","UNK","Utah","UT ","Unknown County",31225,NA,4655,NA,32029,NA,96
-"2021-05-04","UNK","Vermont","VT ","Unknown County",63410,NA,27979,NA,63645,NA,74.4
-"2021-05-04","UNK","Virginia","VA ","Unknown County",1462360,NA,522290,NA,1473281,NA,50.1
-"2021-05-04","UNK","Washington","WA ","Unknown County",111019,NA,31578,NA,111613,NA,95.7
-"2021-05-04","UNK","West Virginia","WV ","Unknown County",256274,NA,107116,NA,258785,NA,53.4
-"2021-05-04","UNK","Wisconsin","WI ","Unknown County",59928,NA,15739,NA,60174,NA,97.2
-"2021-05-04","UNK","Wyoming","WY ","Unknown County",5262,NA,1685,NA,5293,NA,96.8
+"2021-05-04","UNK","Guam","GU ","Unknown County",10562,,2699,,10684,,81.2
+"2021-05-04","UNK","Idaho","ID ","Unknown County",10151,,3495,,10158,,98
+"2021-05-04","UNK","Illinois","IL ","Unknown County",101198,,26069,,101487,,97.5
+"2021-05-04","UNK","Indiana","IN ","Unknown County",27423,,6546,,27479,,98.5
+"2021-05-04","UNK","Iowa","IA ","Unknown County",29681,,8211,,29774,,97.4
+"2021-05-04","UNK","Kansas","KS ","Unknown County",65500,,20663,,65964,,93.1
+"2021-05-04","UNK","Kentucky","KY ","Unknown County",95910,,32387,,96378,,93.4
+"2021-05-04","UNK","Louisiana","LA ","Unknown County",60074,,26954,,60174,,95.2
+"2021-05-04","UNK","Maine","ME ","Unknown County",25075,,7857,,25101,,95.5
+"2021-05-04","UNK","Maryland","MD ","Unknown County",27000,,6467,,27101,,98.7
+"2021-05-04","UNK","Massachusetts","MA ","Unknown County",319652,,120433,,320930,,87.9
+"2021-05-04","UNK","Michigan","MI ","Unknown County",173995,,56480,,175039,,94.7
+"2021-05-04","UNK","Minnesota","MN ","Unknown County",91708,,28392,,92277,,95.4
+"2021-05-04","UNK","Mississippi","MS ","Unknown County",10737,,3212,,10757,,98.5
+"2021-05-04","UNK","Missouri","MO ","Unknown County",167545,,50333,,167914,,90.4
+"2021-05-04","UNK","Montana","MT ","Unknown County",15016,,5756,,15043,,95.7
+"2021-05-04","UNK","Nebraska","NE ","Unknown County",84835,,32171,,85004,,87.2
+"2021-05-04","UNK","Nevada","NV ","Unknown County",38143,,10131,,38250,,95.7
+"2021-05-04","UNK","New Hampshire","NH ","Unknown County",77506,,31506,,77680,,81.1
+"2021-05-04","UNK","New Jersey","NJ ","Unknown County",287672,,99692,,293595,,91.2
+"2021-05-04","UNK","New Mexico","NM ","Unknown County",193120,,65125,,193490,,76.3
+"2021-05-04","UNK","New York","NY ","Unknown County",195843,,53819,,196080,,97.2
+"2021-05-04","UNK","North Carolina","NC ","Unknown County",120016,,37441,,120552,,96.2
+"2021-05-04","UNK","North Dakota","ND ","Unknown County",10899,,2913,,10937,,95.7
+"2021-05-04","UNK","Northern Mariana Islands","MP ","Unknown County",18374,,2290,,18673,,
+"2021-05-04","UNK","Ohio","OH ","Unknown County",94532,,33332,,94661,,97.6
+"2021-05-04","UNK","Oklahoma","OK ","Unknown County",83316,,22794,,83837,,93
+"2021-05-04","UNK","Oregon","OR ","Unknown County",33882,,10996,,33955,,97.5
+"2021-05-04","UNK","Palau","PW ","Unknown County",8961,,1469,,8961,,
+"2021-05-04","UNK","Pennsylvania","PA ","Unknown County",311217,,116368,,312163,,92.8
+"2021-05-04","UNK","Puerto Rico","PR ","Unknown County",31814,,16329,,31834,,96.1
+"2021-05-04","UNK","Rhode Island","RI ","Unknown County",21289,,3469,,21372,,94.8
+"2021-05-04","UNK","South Carolina","SC ","Unknown County",98973,,39437,,99341,,93.2
+"2021-05-04","UNK","South Dakota","SD ","Unknown County",65383,,30374,,65475,,80.6
+"2021-05-04","UNK","Tennessee","TN ","Unknown County",34983,,10321,,35032,,98
+"2021-05-04","UNK","Utah","UT ","Unknown County",31225,,4655,,32029,,96
+"2021-05-04","UNK","Vermont","VT ","Unknown County",63410,,27979,,63645,,74.4
+"2021-05-04","UNK","Virginia","VA ","Unknown County",1462360,,522290,,1473281,,50.1
+"2021-05-04","UNK","Washington","WA ","Unknown County",111019,,31578,,111613,,95.7
+"2021-05-04","UNK","West Virginia","WV ","Unknown County",256274,,107116,,258785,,53.4
+"2021-05-04","UNK","Wisconsin","WI ","Unknown County",59928,,15739,,60174,,97.2
+"2021-05-04","UNK","Wyoming","WY ","Unknown County",5262,,1685,,5293,,96.8

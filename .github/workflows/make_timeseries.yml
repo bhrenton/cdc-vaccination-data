@@ -1,6 +1,10 @@
 name: Update CDC timeseries
 
-on: workflow_dispatch
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron:  '0 * * * *'
  
 
 defaults:
@@ -30,7 +34,8 @@ jobs:
             if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
         - name: Run script
           run: |
-             cd ../ && python timeseries/make_timeseries.py vaccination_county.json vaccination_county_condensed_data > county_vaccinations_timeseries.csv
+             cd ../ && python timeseries/make_timeseries.py vaccination_county.json vaccination_county_condensed_data > county_vaccinations_timeseries_duplicates.csv
+             cd ../ && python timeseries/make_timeseries.py --strip-duplicate-days vaccination_county.json vaccination_county_condensed_data > county_vaccinations_timeseries.csv
         - name: Commit
           if: github.ref == 'refs/heads/main'
           uses: EndBug/add-and-commit@v5

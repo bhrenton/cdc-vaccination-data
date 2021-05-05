@@ -11,8 +11,8 @@ vaccination<-table4[['vaccination_data']]
 table5 <- fromJSON("https://www.cdc.gov/coronavirus/2019-ncov/modules/transmission/variant-cases.json")
 variants<-table5[['data']] %>% 
   filter(filter == "Variant B.1.1.7")
-write.csv(demographics, "vaccination_demographics.csv",row.names=F)
-write.csv(vaccination, "vaccination_data.csv",row.names=F)
-write.csv(counties, "vaccination_county.csv",row.names=F)
-write.csv(trends, "vaccination_trends.csv",row.names=F)
-write.csv(variants, "variants.csv",row.names=F)
+write.csv(demographics, "vaccination_demographics.csv",row.names=F, na = "")
+write.csv(vaccination, "vaccination_data.csv",row.names=F, na = "")
+write.csv(counties, "vaccination_county.csv",row.names=F, na = "")
+write.csv(trends, "vaccination_trends.csv",row.names=F, na = "")
+write.csv(variants, "variants.csv",row.names=F, na = "")

@@ -1,4 +1,4 @@
-name: Update CDC timeseries
+name: Update CDC timeseries 2
 
 on:
   schedule:

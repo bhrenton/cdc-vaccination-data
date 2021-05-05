@@ -2,11 +2,11 @@ name: Update CDC timeseries
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '55 * * * *'
 
 defaults:
   run:
-     working-directory: timeseries
+     working-directory: timeseries/
 
 jobs:
   update:
@@ -28,11 +28,10 @@ jobs:
         - name: Install dependencies
           run: |
             python -m pip install --upgrade pip
-            $ pip install GitPython
             if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
         - name: Run script
           run: |
-            python make_timeseries.py vaccination_county.json vaccination_county_condensed_data > county_vaccinations_timeseries.csv
+             python make_timeseries.py vaccination_county.json vaccination_county_condensed_data > county_vaccinations_timeseries.csv
         - name: Commit
           if: github.ref == 'refs/heads/master'
           uses: EndBug/add-and-commit@v5

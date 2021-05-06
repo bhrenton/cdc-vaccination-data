@@ -20,5 +20,5 @@ allocations <- left_join(pfizer_moderna, janssen, by = "key") %>%
 allocations_total <- allocations %>% 
   group_by(week_of_allocations) %>% 
   summarise(pfizer_1st_dose = sum (pfizer_1st_dose), pfizer_2nd_dose = sum (pfizer_2nd_dose), moderna_1st_dose = sum (moderna_1st_dose), moderna_2nd_dose = sum (moderna_2nd_dose), janssen_1st_dose = sum (janssen_1st_dose), total = sum(total))
-write.csv(allocations, "Weekly Allocations.csv", row.names = F, na = "")
-write.csv(allocations_total, "Total Weekly Allocations.csv", row.names = F, na = "")
+write.csv(allocations, "weekly_allocations.csv", row.names = F, na = "")
+write.csv(allocations_total, "total_weekly_allocations.csv", row.names = F, na = "")

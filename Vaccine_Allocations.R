@@ -15,6 +15,10 @@ allocations <- left_join(pfizer_moderna, janssen, by = "key") %>%
   select(jurisdiction.x, week_of_allocations.x, pfizer_1st_dose, pfizer_2nd_dose, moderna_1st_dose, moderna_2nd_dose, janssen_1st_dose) %>% 
   rename(jurisdiction = jurisdiction.x) %>% 
   rename(week_of_allocations = week_of_allocations.x) %>% 
+  mutate(pfizer_1st_dose = replace_na(pfizer_1st_dose, 0)) %>%
+  mutate(pfizer_2nd_dose = replace_na(pfizer_2nd_dose, 0)) %>%
+  mutate(moderna_1st_dose = replace_na(moderna_1st_dose, 0)) %>%
+  mutate(moderna_2nd_dose = replace_na(moderna_2nd_dose, 0)) %>%
   mutate(janssen_1st_dose = replace_na(janssen_1st_dose, 0)) %>% 
   mutate(total = pfizer_1st_dose + pfizer_2nd_dose + moderna_1st_dose + moderna_2nd_dose + janssen_1st_dose)
 allocations_total <- allocations %>% 

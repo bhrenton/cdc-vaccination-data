@@ -1,6 +1,25 @@
 {
-  "runid": 1946,
+  "runid": 1949,
   "vaccination_trends_data": [
+    {
+      "Date": "2021-05-06",
+      "Location": "US",
+      "ShortName": "USA",
+      "LongName": "United States",
+      "Administered_Daily": 0,
+      "Administered_Cumulative": 251973752,
+      "Administered_7_Day_Rolling_Average": 1011709,
+      "Admin_Dose_1_Daily": 0,
+      "Admin_Dose_1_Cumulative": 149462265,
+      "Admin_Dose_1_Day_Rolling_Average": 368632,
+      "Admin_Dose_2_Daily": 1482991,
+      "Admin_Dose_2_Cumulative": 100387024,
+      "Admin_Dose_2_Day_Rolling_Average": 1259297,
+      "Series_Complete_Daily": 0,
+      "Series_Complete_Cumulative": 108926627,
+      "Series_Complete_Day_Rolling_Average": 677823,
+      "date_type": "Admin"
+    },
     {
       "Date": "2020-12-14",
       "Location": "US",
@@ -1918,25 +1937,6 @@
       "Series_Complete_Daily": 1099349,
       "Series_Complete_Cumulative": 55477200,
       "Series_Complete_Day_Rolling_Average": 1117469,
-      "date_type": "Admin"
-    },
-    {
-      "Date": "2021-05-06",
-      "Location": "US",
-      "ShortName": "USA",
-      "LongName": "United States",
-      "Administered_Daily": 2406932,
-      "Administered_Cumulative": 251973752,
-      "Administered_7_Day_Rolling_Average": 2087608,
-      "Admin_Dose_1_Daily": 899374,
-      "Admin_Dose_1_Cumulative": 149462265,
-      "Admin_Dose_1_Day_Rolling_Average": 809814,
-      "Admin_Dose_2_Daily": 1482991,
-      "Admin_Dose_2_Cumulative": 100387024,
-      "Admin_Dose_2_Day_Rolling_Average": 1259297,
-      "Series_Complete_Daily": 1580094,
-      "Series_Complete_Cumulative": 108926627,
-      "Series_Complete_Day_Rolling_Average": 1322526,
       "date_type": "Admin"
     },
     {

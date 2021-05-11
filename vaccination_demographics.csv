@@ -1,13 +1,8 @@
 "Date","Demographic_category","Administered_Dose1","Administered_Dose1_pct_known","Administered_Dose1_pct_US","Administered_Dose2","Administered_Dose2_pct_known","Administered_Dose2_pct_US","Series_Complete_Yes","Series_Complete_Pop_Pct_known","Series_Complete_Pop_Pct_US","Administered_Dose1_pct_agegroup","Series_Complete_Pop_pct_agegroup","census","Administered_Dose1_Last14Days","Administered_Dose1_pct_known_Last14Days","Series_Complete_Yes_Last14Days","Series_Complete_Pop_Pct_known_Last14Days"
 "2021-05-11","Age_known",141841936,0,92,99283697,0,92,107696069,0,92,0,0,0,,,,
 "2021-05-11","Age_unknown",11606380,0,0,8185493,0,0,8880290,0,0,0,0,0,,,,
-"2021-05-11","Ages_<12",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 "2021-05-11","Ages_<18yrs",2282424,1.6,0,1049160,1.1,0,1061544,1,0,3.1,1.5,73037927,543588,5.3,627764,3.7
-"2021-05-11","Ages_12-15_yrs",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"2021-05-11","Ages_16-17_yrs",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"2021-05-11","Ages_18-24_yrs",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 "2021-05-11","Ages_18-29_yrs",18808070,13.3,0,10785564,10.9,0,12107515,11.2,0,35.5,22.8,53027982,2402333,23.6,3507019,20.6
-"2021-05-11","Ages_25-39_yrs",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 "2021-05-11","Ages_30-39_yrs",19171232,13.5,0,12152804,12.2,0,13476671,12.5,0,43.7,30.7,43827888,1887548,18.5,3096446,18.2
 "2021-05-11","Ages_40-49_yrs",20060447,14.1,0,13063837,13.2,0,14517101,13.5,0,49.9,36.1,40194520,1788838,17.5,3049909,17.9
 "2021-05-11","Ages_50-64_yrs",38599402,27.2,0,27060850,27.3,0,29929325,27.8,0,61.4,47.6,62906022,2536498,24.9,5028324,29.5

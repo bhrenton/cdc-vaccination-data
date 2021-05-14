@@ -1,5 +1,5 @@
 {
-  "runid": 1963,
+  "runid": 1965,
   "vaccination_demographics_data": [
     {
       "Date": "2021-05-13",
@@ -36,26 +36,6 @@
       "Administered_Dose1_pct_agegroup": 0,
       "Series_Complete_Pop_pct_agegroup": 0,
       "census": 0,
-      "Administered_Dose1_Last14Days": 0,
-      "Administered_Dose1_pct_known_Last14Days": 0,
-      "Series_Complete_Yes_Last14Days": 0,
-      "Series_Complete_Pop_Pct_known_Last14Days": 0
-    },
-    {
-      "Date": "2021-05-13",
-      "Demographic_category": "Ages_<12yrs",
-      "Administered_Dose1": 9162,
-      "Administered_Dose1_pct_known": 0,
-      "Administered_Dose1_pct_US": 0,
-      "Administered_Dose2": 2438,
-      "Administered_Dose2_pct_known": 0,
-      "Administered_Dose2_pct_US": 0,
-      "Series_Complete_Yes": 2841,
-      "Series_Complete_Pop_Pct_known": 0,
-      "Series_Complete_Pop_Pct_US": 0,
-      "Administered_Dose1_pct_agegroup": 0,
-      "Series_Complete_Pop_pct_agegroup": 0,
-      "census": 48450239,
       "Administered_Dose1_Last14Days": 0,
       "Administered_Dose1_pct_known_Last14Days": 0,
       "Series_Complete_Yes_Last14Days": 0,

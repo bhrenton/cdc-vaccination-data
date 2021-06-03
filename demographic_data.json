@@ -1,5 +1,5 @@
 {
-  "runid": 1993,
+  "runid": 1994,
   "vaccination_demographics_data": [
     {
       "Date": "2021-06-02",
@@ -16,7 +16,7 @@
       "Administered_Dose1_pct_agegroup": 0,
       "Series_Complete_Pop_pct_agegroup": 0,
       "census": 0,
-      "Administered_Dose1_Last14Days": null,
+      "Administered_Dose1_Last14Days": 0,
       "Administered_Dose1_pct_known_Last14Days": 0,
       "Series_Complete_Yes_Last14Days": 0,
       "Series_Complete_Pop_Pct_known_Last14Days": 0
@@ -36,7 +36,7 @@
       "Administered_Dose1_pct_agegroup": 0,
       "Series_Complete_Pop_pct_agegroup": 0,
       "census": 0,
-      "Administered_Dose1_Last14Days": null,
+      "Administered_Dose1_Last14Days": 0,
       "Administered_Dose1_pct_known_Last14Days": 0,
       "Series_Complete_Yes_Last14Days": 0,
       "Series_Complete_Pop_Pct_known_Last14Days": 0
@@ -56,7 +56,7 @@
       "Administered_Dose1_pct_agegroup": 0.2,
       "Series_Complete_Pop_pct_agegroup": 0,
       "census": 48450239,
-      "Administered_Dose1_Last14Days": null,
+      "Administered_Dose1_Last14Days": 61547,
       "Administered_Dose1_pct_known_Last14Days": 0.8,
       "Series_Complete_Yes_Last14Days": 187,
       "Series_Complete_Pop_Pct_known_Last14Days": 0
@@ -76,7 +76,7 @@
       "Administered_Dose1_pct_agegroup": 18,
       "Series_Complete_Pop_pct_agegroup": 0.7,
       "census": 16902231,
-      "Administered_Dose1_Last14Days": null,
+      "Administered_Dose1_Last14Days": 1685816,
       "Administered_Dose1_pct_known_Last14Days": 21.4,
       "Series_Complete_Yes_Last14Days": 38215,
       "Series_Complete_Pop_Pct_known_Last14Days": 0.4
@@ -96,7 +96,7 @@
       "Administered_Dose1_pct_agegroup": 33.1,
       "Series_Complete_Pop_pct_agegroup": 22.2,
       "census": 8384270,
-      "Administered_Dose1_Last14Days": null,
+      "Administered_Dose1_Last14Days": 370475,
       "Administered_Dose1_pct_known_Last14Days": 4.7,
       "Series_Complete_Yes_Last14Days": 401917,
       "Series_Complete_Pop_Pct_known_Last14Days": 4.5
@@ -116,7 +116,7 @@
       "Administered_Dose1_pct_agegroup": 39.6,
       "Series_Complete_Pop_pct_agegroup": 29.2,
       "census": 30574594,
-      "Administered_Dose1_Last14Days": null,
+      "Administered_Dose1_Last14Days": 996075,
       "Administered_Dose1_pct_known_Last14Days": 12.7,
       "Series_Complete_Yes_Last14Days": 1250377,
       "Series_Complete_Pop_Pct_known_Last14Days": 14.1
@@ -136,7 +136,7 @@
       "Administered_Dose1_pct_agegroup": 45,
       "Series_Complete_Pop_pct_agegroup": 35.5,
       "census": 68384674,
-      "Administered_Dose1_Last14Days": null,
+      "Administered_Dose1_Last14Days": 1774371,
       "Administered_Dose1_pct_known_Last14Days": 22.6,
       "Series_Complete_Yes_Last14Days": 2500633,
       "Series_Complete_Pop_Pct_known_Last14Days": 28.1
@@ -236,7 +236,7 @@
       "Administered_Dose1_pct_agegroup": 26.2,
       "Series_Complete_Pop_pct_agegroup": 20.6,
       "census": 52218655,
-      "Administered_Dose1_Last14Days": null,
+      "Administered_Dose1_Last14Days": 1507886,
       "Administered_Dose1_pct_known_Last14Days": 25.8,
       "Series_Complete_Yes_Last14Days": 1637805,
       "Series_Complete_Pop_Pct_known_Last14Days": 23.5
@@ -256,7 +256,7 @@
       "Administered_Dose1_pct_agegroup": 0,
       "Series_Complete_Pop_pct_agegroup": 0,
       "census": 0,
-      "Administered_Dose1_Last14Days": null,
+      "Administered_Dose1_Last14Days": 0,
       "Administered_Dose1_pct_known_Last14Days": 0,
       "Series_Complete_Yes_Last14Days": 0,
       "Series_Complete_Pop_Pct_known_Last14Days": 0
@@ -276,7 +276,7 @@
       "Administered_Dose1_pct_agegroup": 41.7,
       "Series_Complete_Pop_pct_agegroup": 33.7,
       "census": 2341202,
-      "Administered_Dose1_Last14Days": null,
+      "Administered_Dose1_Last14Days": 54277,
       "Administered_Dose1_pct_known_Last14Days": 0.9,
       "Series_Complete_Yes_Last14Days": 47307,
       "Series_Complete_Pop_Pct_known_Last14Days": 0.7
@@ -296,7 +296,7 @@
       "Administered_Dose1_pct_agegroup": 33,
       "Series_Complete_Pop_pct_agegroup": 28.2,
       "census": 17542907,
-      "Administered_Dose1_Last14Days": null,
+      "Administered_Dose1_Last14Days": 444801,
       "Administered_Dose1_pct_known_Last14Days": 7.6,
       "Series_Complete_Yes_Last14Days": 613599,
       "Series_Complete_Pop_Pct_known_Last14Days": 8.8
@@ -316,7 +316,7 @@
       "Administered_Dose1_pct_agegroup": 22.8,
       "Series_Complete_Pop_pct_agegroup": 19,
       "census": 37653641,
-      "Administered_Dose1_Last14Days": null,
+      "Administered_Dose1_Last14Days": 611247,
       "Administered_Dose1_pct_known_Last14Days": 10.5,
       "Series_Complete_Yes_Last14Days": 658615,
       "Series_Complete_Pop_Pct_known_Last14Days": 9.4
@@ -336,7 +336,7 @@
       "Administered_Dose1_pct_agegroup": 0,
       "Series_Complete_Pop_pct_agegroup": 0,
       "census": 6900162,
-      "Administered_Dose1_Last14Days": null,
+      "Administered_Dose1_Last14Days": 435537,
       "Administered_Dose1_pct_known_Last14Days": 7.4,
       "Series_Complete_Yes_Last14Days": 536735,
       "Series_Complete_Pop_Pct_known_Last14Days": 7.7
@@ -356,7 +356,7 @@
       "Administered_Dose1_pct_agegroup": 32.1,
       "Series_Complete_Pop_pct_agegroup": 25.8,
       "census": 891847,
-      "Administered_Dose1_Last14Days": null,
+      "Administered_Dose1_Last14Days": 22546,
       "Administered_Dose1_pct_known_Last14Days": 0.4,
       "Series_Complete_Yes_Last14Days": 23206,
       "Series_Complete_Pop_Pct_known_Last14Days": 0.3
@@ -376,7 +376,7 @@
       "Administered_Dose1_pct_agegroup": 31.6,
       "Series_Complete_Pop_pct_agegroup": 28.3,
       "census": 185445418,
-      "Administered_Dose1_Last14Days": null,
+      "Administered_Dose1_Last14Days": 2770717,
       "Administered_Dose1_pct_known_Last14Days": 47.4,
       "Series_Complete_Yes_Last14Days": 3461754,
       "Series_Complete_Pop_Pct_known_Last14Days": 49.6
@@ -396,7 +396,7 @@
       "Administered_Dose1_pct_agegroup": 0,
       "Series_Complete_Pop_pct_agegroup": 0,
       "census": 0,
-      "Administered_Dose1_Last14Days": null,
+      "Administered_Dose1_Last14Days": 2014906,
       "Administered_Dose1_pct_known_Last14Days": 25.6,
       "Series_Complete_Yes_Last14Days": 1904999,
       "Series_Complete_Pop_Pct_known_Last14Days": 21.4
@@ -416,7 +416,7 @@
       "Administered_Dose1_pct_agegroup": 53.2,
       "Series_Complete_Pop_pct_agegroup": 43.2,
       "census": 153892887,
-      "Administered_Dose1_Last14Days": null,
+      "Administered_Dose1_Last14Days": 3835316,
       "Administered_Dose1_pct_known_Last14Days": 49.1,
       "Series_Complete_Yes_Last14Days": 4223430,
       "Series_Complete_Pop_Pct_known_Last14Days": 47.9
@@ -436,7 +436,7 @@
       "Administered_Dose1_pct_agegroup": 0,
       "Series_Complete_Pop_pct_agegroup": 0,
       "census": 0,
-      "Administered_Dose1_Last14Days": null,
+      "Administered_Dose1_Last14Days": 0,
       "Administered_Dose1_pct_known_Last14Days": 0,
       "Series_Complete_Yes_Last14Days": 0,
       "Series_Complete_Pop_Pct_known_Last14Days": 0
@@ -456,7 +456,7 @@
       "Administered_Dose1_pct_agegroup": 48.5,
       "Series_Complete_Pop_pct_agegroup": 39,
       "census": 149107431,
-      "Administered_Dose1_Last14Days": null,
+      "Administered_Dose1_Last14Days": 3975101,
       "Administered_Dose1_pct_known_Last14Days": 50.9,
       "Series_Complete_Yes_Last14Days": 4594011,
       "Series_Complete_Pop_Pct_known_Last14Days": 52.1
@@ -476,7 +476,7 @@
       "Administered_Dose1_pct_agegroup": 0,
       "Series_Complete_Pop_pct_agegroup": 0,
       "census": 0,
-      "Administered_Dose1_Last14Days": null,
+      "Administered_Dose1_Last14Days": 0,
       "Administered_Dose1_pct_known_Last14Days": 0,
       "Series_Complete_Yes_Last14Days": 0,
       "Series_Complete_Pop_Pct_known_Last14Days": 0
@@ -496,7 +496,7 @@
       "Administered_Dose1_pct_agegroup": 0,
       "Series_Complete_Pop_pct_agegroup": 0,
       "census": 0,
-      "Administered_Dose1_Last14Days": null,
+      "Administered_Dose1_Last14Days": 7861917,
       "Administered_Dose1_pct_known_Last14Days": 0,
       "Series_Complete_Yes_Last14Days": 8884020,
       "Series_Complete_Pop_Pct_known_Last14Days": 0

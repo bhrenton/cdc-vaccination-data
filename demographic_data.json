@@ -1,5 +1,5 @@
 {
-  "runid": 2314,
+  "runid": 2315,
   "vaccination_demographics_data": [
     {
       "Date": "2021-12-09",
@@ -26,7 +26,8 @@
       "Booster_Doses_Vax_Pct_US": 95,
       "Booster_Doses_Vax_pct_agegroup": 49.1,
       "Booster_Doses_Yes_Last14Days": 2379544,
-      "Booster_Doses_Pop_Pct_known_Last14Days": 95
+      "Booster_Doses_Pop_Pct_known_Last14Days": 95,
+      "Series_Complete_Eligible_Pct": 95
     },
     {
       "Date": "2021-12-09",
@@ -53,7 +54,8 @@
       "Booster_Doses_Vax_Pct_US": 0,
       "Booster_Doses_Vax_pct_agegroup": 0,
       "Booster_Doses_Yes_Last14Days": 0,
-      "Booster_Doses_Pop_Pct_known_Last14Days": 0
+      "Booster_Doses_Pop_Pct_known_Last14Days": 0,
+      "Series_Complete_Eligible_Pct": 0
     },
     {
       "Date": "2021-12-09",
@@ -80,7 +82,8 @@
       "Booster_Doses_Vax_Pct_US": 0,
       "Booster_Doses_Vax_pct_agegroup": 0,
       "Booster_Doses_Yes_Last14Days": 0,
-      "Booster_Doses_Pop_Pct_known_Last14Days": 0
+      "Booster_Doses_Pop_Pct_known_Last14Days": 0,
+      "Series_Complete_Eligible_Pct": 0
     },
     {
       "Date": "2021-12-09",
@@ -107,7 +110,8 @@
       "Booster_Doses_Vax_Pct_US": 0,
       "Booster_Doses_Vax_pct_agegroup": 0,
       "Booster_Doses_Yes_Last14Days": 0,
-      "Booster_Doses_Pop_Pct_known_Last14Days": 0
+      "Booster_Doses_Pop_Pct_known_Last14Days": 0,
+      "Series_Complete_Eligible_Pct": 0
     },
     {
       "Date": "2021-12-09",
@@ -134,7 +138,8 @@
       "Booster_Doses_Vax_Pct_US": 0,
       "Booster_Doses_Vax_pct_agegroup": 0,
       "Booster_Doses_Yes_Last14Days": 0,
-      "Booster_Doses_Pop_Pct_known_Last14Days": 0
+      "Booster_Doses_Pop_Pct_known_Last14Days": 0,
+      "Series_Complete_Eligible_Pct": 0
     },
     {
       "Date": "2021-12-09",
@@ -161,7 +166,8 @@
       "Booster_Doses_Vax_Pct_US": 0,
       "Booster_Doses_Vax_pct_agegroup": 0,
       "Booster_Doses_Yes_Last14Days": 0,
-      "Booster_Doses_Pop_Pct_known_Last14Days": 0
+      "Booster_Doses_Pop_Pct_known_Last14Days": 0,
+      "Series_Complete_Eligible_Pct": 0
     },
     {
       "Date": "2021-12-09",
@@ -188,7 +194,8 @@
       "Booster_Doses_Vax_Pct_US": 0,
       "Booster_Doses_Vax_pct_agegroup": 0,
       "Booster_Doses_Yes_Last14Days": 0,
-      "Booster_Doses_Pop_Pct_known_Last14Days": 0
+      "Booster_Doses_Pop_Pct_known_Last14Days": 0,
+      "Series_Complete_Eligible_Pct": 0
     },
     {
       "Date": "2021-12-09",
@@ -215,7 +222,8 @@
       "Booster_Doses_Vax_Pct_US": 0,
       "Booster_Doses_Vax_pct_agegroup": 0,
       "Booster_Doses_Yes_Last14Days": 0,
-      "Booster_Doses_Pop_Pct_known_Last14Days": 0
+      "Booster_Doses_Pop_Pct_known_Last14Days": 0,
+      "Series_Complete_Eligible_Pct": 0
     },
     {
       "Date": "2021-12-09",
@@ -242,7 +250,8 @@
       "Booster_Doses_Vax_Pct_US": 59.7,
       "Booster_Doses_Vax_pct_agegroup": 47.3,
       "Booster_Doses_Yes_Last14Days": 1424651,
-      "Booster_Doses_Pop_Pct_known_Last14Days": 59.9
+      "Booster_Doses_Pop_Pct_known_Last14Days": 59.9,
+      "Series_Complete_Eligible_Pct": 59.7
     },
     {
       "Date": "2021-12-09",
@@ -269,7 +278,8 @@
       "Booster_Doses_Vax_Pct_US": 40.3,
       "Booster_Doses_Vax_pct_agegroup": 51.8,
       "Booster_Doses_Yes_Last14Days": 954893,
-      "Booster_Doses_Pop_Pct_known_Last14Days": 40.1
+      "Booster_Doses_Pop_Pct_known_Last14Days": 40.1,
+      "Series_Complete_Eligible_Pct": 40.3
     },
     {
       "Date": "2021-12-09",
@@ -296,7 +306,8 @@
       "Booster_Doses_Vax_Pct_US": 9.4,
       "Booster_Doses_Vax_pct_agegroup": 49.5,
       "Booster_Doses_Yes_Last14Days": 218062,
-      "Booster_Doses_Pop_Pct_known_Last14Days": 10.3
+      "Booster_Doses_Pop_Pct_known_Last14Days": 10.3,
+      "Series_Complete_Eligible_Pct": 9.4
     },
     {
       "Date": "2021-12-09",
@@ -323,7 +334,8 @@
       "Booster_Doses_Vax_Pct_US": 95,
       "Booster_Doses_Vax_pct_agegroup": 61.1,
       "Booster_Doses_Yes_Last14Days": 2118488,
-      "Booster_Doses_Pop_Pct_known_Last14Days": 95
+      "Booster_Doses_Pop_Pct_known_Last14Days": 95,
+      "Series_Complete_Eligible_Pct": 95
     },
     {
       "Date": "2021-12-09",
@@ -350,7 +362,8 @@
       "Booster_Doses_Vax_Pct_US": 0.6,
       "Booster_Doses_Vax_pct_agegroup": 50.7,
       "Booster_Doses_Yes_Last14Days": 11912,
-      "Booster_Doses_Pop_Pct_known_Last14Days": 0.6
+      "Booster_Doses_Pop_Pct_known_Last14Days": 0.6,
+      "Series_Complete_Eligible_Pct": 0.6
     },
     {
       "Date": "2021-12-09",
@@ -377,7 +390,8 @@
       "Booster_Doses_Vax_Pct_US": 3.2,
       "Booster_Doses_Vax_pct_agegroup": 80.4,
       "Booster_Doses_Yes_Last14Days": 98409,
-      "Booster_Doses_Pop_Pct_known_Last14Days": 4.6
+      "Booster_Doses_Pop_Pct_known_Last14Days": 4.6,
+      "Series_Complete_Eligible_Pct": 3.2
     },
     {
       "Date": "2021-12-09",
@@ -404,7 +418,8 @@
       "Booster_Doses_Vax_Pct_US": 8.5,
       "Booster_Doses_Vax_pct_agegroup": 50.2,
       "Booster_Doses_Yes_Last14Days": 202037,
-      "Booster_Doses_Pop_Pct_known_Last14Days": 9.5
+      "Booster_Doses_Pop_Pct_known_Last14Days": 9.5,
+      "Series_Complete_Eligible_Pct": 8.5
     },
     {
       "Date": "2021-12-09",
@@ -431,7 +446,8 @@
       "Booster_Doses_Vax_Pct_US": 5.3,
       "Booster_Doses_Vax_pct_agegroup": 68.3,
       "Booster_Doses_Yes_Last14Days": 106842,
-      "Booster_Doses_Pop_Pct_known_Last14Days": 5
+      "Booster_Doses_Pop_Pct_known_Last14Days": 5,
+      "Series_Complete_Eligible_Pct": 5.3
     },
     {
       "Date": "2021-12-09",
@@ -458,7 +474,8 @@
       "Booster_Doses_Vax_Pct_US": 0.2,
       "Booster_Doses_Vax_pct_agegroup": 48.6,
       "Booster_Doses_Yes_Last14Days": 3335,
-      "Booster_Doses_Pop_Pct_known_Last14Days": 0.2
+      "Booster_Doses_Pop_Pct_known_Last14Days": 0.2,
+      "Series_Complete_Eligible_Pct": 0.2
     },
     {
       "Date": "2021-12-09",
@@ -485,7 +502,8 @@
       "Booster_Doses_Vax_Pct_US": 72.7,
       "Booster_Doses_Vax_pct_agegroup": 62.6,
       "Booster_Doses_Yes_Last14Days": 1477891,
-      "Booster_Doses_Pop_Pct_known_Last14Days": 69.8
+      "Booster_Doses_Pop_Pct_known_Last14Days": 69.8,
+      "Series_Complete_Eligible_Pct": 72.7
     },
     {
       "Date": "2021-12-09",
@@ -512,7 +530,8 @@
       "Booster_Doses_Vax_Pct_US": 39.4,
       "Booster_Doses_Vax_pct_agegroup": 18.7,
       "Booster_Doses_Yes_Last14Days": 261056,
-      "Booster_Doses_Pop_Pct_known_Last14Days": 12.3
+      "Booster_Doses_Pop_Pct_known_Last14Days": 12.3,
+      "Series_Complete_Eligible_Pct": 39.4
     },
     {
       "Date": "2021-12-09",
@@ -539,7 +558,8 @@
       "Booster_Doses_Vax_Pct_US": 54.8,
       "Booster_Doses_Vax_pct_agegroup": 49.4,
       "Booster_Doses_Yes_Last14Days": 1305203,
-      "Booster_Doses_Pop_Pct_known_Last14Days": 54.9
+      "Booster_Doses_Pop_Pct_known_Last14Days": 54.9,
+      "Series_Complete_Eligible_Pct": 54.8
     },
     {
       "Date": "2021-12-09",
@@ -566,7 +586,8 @@
       "Booster_Doses_Vax_Pct_US": 95,
       "Booster_Doses_Vax_pct_agegroup": 49.3,
       "Booster_Doses_Yes_Last14Days": 2375921,
-      "Booster_Doses_Pop_Pct_known_Last14Days": 95
+      "Booster_Doses_Pop_Pct_known_Last14Days": 95,
+      "Series_Complete_Eligible_Pct": 95
     },
     {
       "Date": "2021-12-09",
@@ -593,7 +614,8 @@
       "Booster_Doses_Vax_Pct_US": 45.2,
       "Booster_Doses_Vax_pct_agegroup": 49.2,
       "Booster_Doses_Yes_Last14Days": 1070718,
-      "Booster_Doses_Pop_Pct_known_Last14Days": 45.1
+      "Booster_Doses_Pop_Pct_known_Last14Days": 45.1,
+      "Series_Complete_Eligible_Pct": 45.2
     },
     {
       "Date": "2021-12-09",
@@ -620,7 +642,8 @@
       "Booster_Doses_Vax_Pct_US": 0.5,
       "Booster_Doses_Vax_pct_agegroup": 12.5,
       "Booster_Doses_Yes_Last14Days": 3623,
-      "Booster_Doses_Pop_Pct_known_Last14Days": 0.2
+      "Booster_Doses_Pop_Pct_known_Last14Days": 0.2,
+      "Series_Complete_Eligible_Pct": 0.5
     },
     {
       "Date": "2021-12-09",
@@ -647,7 +670,8 @@
       "Booster_Doses_Vax_Pct_US": null,
       "Booster_Doses_Vax_pct_agegroup": 49.1,
       "Booster_Doses_Yes_Last14Days": 2379544,
-      "Booster_Doses_Pop_Pct_known_Last14Days": null
+      "Booster_Doses_Pop_Pct_known_Last14Days": null,
+      "Series_Complete_Eligible_Pct": null
     }
   ]
 }
